@@ -1,0 +1,4 @@
+# Created by cloud-init v. 0.7.9 on Thu, 27 Feb 2020 00:07:09 +0000
+
+# User rules for admin
+admin ALL=(ALL) NOPASSWD:ALL

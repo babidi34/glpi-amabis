@@ -1,0 +1,11 @@
+#!/bin/sh
+# This script tells chronyd that the connection is up so that it can
+# contact the server.  John Hasler <jhasler@debian.org> 1998-2003
+# Any possessor of a copy of this program may treat it as if it
+# were in the public domain.  I waive all rights.
+# Modified by Vincent Blut <vincent.debian@free.fr>
+
+/bin/pidof chronyd > /dev/null || exit 0
+/usr/bin/chronyc online > /dev/null 2>&1
+touch /var/run/chrony-ppp-up
+exit 0

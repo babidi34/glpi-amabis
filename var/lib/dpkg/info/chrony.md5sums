@@ -1,0 +1,17 @@
+d276ac7a05905d940fb997816e247abb  lib/systemd/system/chrony.service
+a2a7a01872f513e48dc55e5c818cd442  usr/bin/chronyc
+cebeb9e218add066dad4b4e8e3c8b27a  usr/sbin/chronyd
+bbca2a7ef5c586c475869af8afc99f2b  usr/share/chrony/chrony.conf
+73804919088bf06f338cc03296eb0bcf  usr/share/chrony/chrony.keys
+9c0d451fa28df7e19d54b35d7ac6a0ca  usr/share/doc/chrony/FAQ.gz
+b87b643af72194d161db009273087e56  usr/share/doc/chrony/NEWS.Debian.gz
+ed32ec2f78ff6ec8cd004794830342ac  usr/share/doc/chrony/README.Debian
+9be195f1e03472734cc08e6fca370c4d  usr/share/doc/chrony/README.gz
+97fc3d58fabec233cad5b7907371dfe5  usr/share/doc/chrony/changelog.Debian.gz
+a5795d9306590c709b53438a229e20ab  usr/share/doc/chrony/changelog.gz
+05ae9ca5a65b369e9a697773d5a6602e  usr/share/doc/chrony/copyright
+65958be09c180a4072a80cf9a663db4e  usr/share/lintian/overrides/chrony
+2081ef065840d546853dce6515b9f670  usr/share/man/man1/chronyc.1.gz
+b331487bfe57ca760bb2aaa03f1565c3  usr/share/man/man5/chrony.conf.5.gz
+d9427cc11e65d8ca60571e8f37456908  usr/share/man/man8/chronyd.8.gz
+6e29e355b7349c040e6d060dbd1ba76a  usr/share/menu/chrony

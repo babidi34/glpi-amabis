@@ -1,0 +1,15 @@
+/.
+/usr
+/usr/bin
+/usr/bin/s3fs
+/usr/share
+/usr/share/doc
+/usr/share/doc/s3fs
+/usr/share/doc/s3fs/changelog.Debian.gz
+/usr/share/doc/s3fs/changelog.gz
+/usr/share/doc/s3fs/copyright
+/usr/share/doc/s3fs/examples
+/usr/share/doc/s3fs/examples/passwd-s3fs
+/usr/share/man
+/usr/share/man/man1
+/usr/share/man/man1/s3fs.1.gz

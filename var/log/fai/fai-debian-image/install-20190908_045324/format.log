@@ -1,0 +1,10 @@
+Starting setup-storage 2.0
+Using config file: /srv/fai/config/config_space/disk_config/CLOUD
+Parted could not read a disk label (new disk?)
+Executing: parted -s /dev/loop0 mklabel msdos
+Executing: parted -s /dev/loop0 mklabel msdos
+Executing: parted -s /dev/loop0 mkpart primary "ext3" 1048576B 8589934591B
+Executing: parted -s /dev/loop0 set 1 boot on
+Executing: mkfs.ext4  /dev/loop0p1
+Executing: tune2fs -c 0 -i 0 /dev/loop0p1
+/dev/loop0p1 UUID=13ea901b-a08d-41a5-8e04-521c4415f9aa

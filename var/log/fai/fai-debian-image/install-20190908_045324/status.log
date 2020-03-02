@@ -1,0 +1,9 @@
+DEBIAN/10-apt        OK.
+DEBIAN/11-misc       OK.
+DEBIAN/13-network    OK.
+DEBIAN/20-capabilities OK.
+GRUB_PC/10-setup     OK.
+CLOUD/11-chrony      OK.
+CLOUD/99-cleanup     OK.
+EC2/10-misc          OK.
+EC2/10-network       OK.

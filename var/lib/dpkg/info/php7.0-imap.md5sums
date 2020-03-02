@@ -1,0 +1,5 @@
+1460790f5ecd4bc6b07fd055baac8917  usr/lib/php/20151012/imap.so
+7074ef4e0110909dc8c05ebd7ddf9921  usr/share/bug/php7.0-imap/control
+0b85f3d7122f03d8b998960a4f832e24  usr/share/bug/php7.0-imap/script
+de3a1003a676bf0fdbc0e549d15c749e  usr/share/lintian/overrides/php7.0-imap
+1c612561ed9920e804af8ce30197e97f  usr/share/php7.0-imap/imap/imap.ini

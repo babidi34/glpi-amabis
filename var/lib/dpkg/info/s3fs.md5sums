@@ -1,0 +1,6 @@
+8ad0494a8aa15fdece08b92c0c309e6d  usr/bin/s3fs
+8f4661655bf40fe81b616e43a47da629  usr/share/doc/s3fs/changelog.Debian.gz
+1cc9de244843203830ae3766d4782795  usr/share/doc/s3fs/changelog.gz
+59e465659dd92770ea9f791ec207e1e6  usr/share/doc/s3fs/copyright
+7ba8239dcc20cbbbe29a0fcb80cc27ed  usr/share/doc/s3fs/examples/passwd-s3fs
+cf344d3397392c89b7d520a8177b92a2  usr/share/man/man1/s3fs.1.gz

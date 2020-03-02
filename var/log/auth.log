@@ -1,0 +1,364 @@
+Mar  1 06:25:05 debian-amabis CRON[4430]: pam_unix(cron:session): session closed for user root
+Mar  1 06:39:01 debian-amabis CRON[4680]: pam_unix(cron:session): session opened for user root by (uid=0)
+Mar  1 06:39:01 debian-amabis CRON[4680]: pam_unix(cron:session): session closed for user root
+Mar  1 06:47:01 debian-amabis CRON[4742]: pam_unix(cron:session): session opened for user root by (uid=0)
+Mar  1 06:47:02 debian-amabis CRON[4742]: pam_unix(cron:session): session closed for user root
+Mar  1 06:52:01 debian-amabis CRON[4749]: pam_unix(cron:session): session opened for user root by (uid=0)
+Mar  1 06:52:01 debian-amabis CRON[4749]: pam_unix(cron:session): session closed for user root
+Mar  1 07:09:01 debian-amabis CRON[4752]: pam_unix(cron:session): session opened for user root by (uid=0)
+Mar  1 07:09:01 debian-amabis CRON[4752]: pam_unix(cron:session): session closed for user root
+Mar  1 07:17:01 debian-amabis CRON[4814]: pam_unix(cron:session): session opened for user root by (uid=0)
+Mar  1 07:17:01 debian-amabis CRON[4814]: pam_unix(cron:session): session closed for user root
+Mar  1 07:39:01 debian-amabis CRON[4817]: pam_unix(cron:session): session opened for user root by (uid=0)
+Mar  1 07:39:01 debian-amabis CRON[4817]: pam_unix(cron:session): session closed for user root
+Mar  1 08:09:01 debian-amabis CRON[4888]: pam_unix(cron:session): session opened for user root by (uid=0)
+Mar  1 08:09:01 debian-amabis CRON[4888]: pam_unix(cron:session): session closed for user root
+Mar  1 08:17:01 debian-amabis CRON[4941]: pam_unix(cron:session): session opened for user root by (uid=0)
+Mar  1 08:17:01 debian-amabis CRON[4941]: pam_unix(cron:session): session closed for user root
+Mar  1 08:39:01 debian-amabis CRON[4954]: pam_unix(cron:session): session opened for user root by (uid=0)
+Mar  1 08:39:01 debian-amabis CRON[4954]: pam_unix(cron:session): session closed for user root
+Mar  1 09:09:01 debian-amabis CRON[5016]: pam_unix(cron:session): session opened for user root by (uid=0)
+Mar  1 09:09:01 debian-amabis CRON[5016]: pam_unix(cron:session): session closed for user root
+Mar  1 09:17:01 debian-amabis CRON[5069]: pam_unix(cron:session): session opened for user root by (uid=0)
+Mar  1 09:17:01 debian-amabis CRON[5069]: pam_unix(cron:session): session closed for user root
+Mar  1 09:39:01 debian-amabis CRON[5081]: pam_unix(cron:session): session opened for user root by (uid=0)
+Mar  1 09:39:01 debian-amabis CRON[5081]: pam_unix(cron:session): session closed for user root
+Mar  1 10:09:01 debian-amabis CRON[5146]: pam_unix(cron:session): session opened for user root by (uid=0)
+Mar  1 10:09:01 debian-amabis CRON[5146]: pam_unix(cron:session): session closed for user root
+Mar  1 10:17:01 debian-amabis CRON[5202]: pam_unix(cron:session): session opened for user root by (uid=0)
+Mar  1 10:17:01 debian-amabis CRON[5202]: pam_unix(cron:session): session closed for user root
+Mar  1 10:39:01 debian-amabis CRON[5214]: pam_unix(cron:session): session opened for user root by (uid=0)
+Mar  1 10:39:01 debian-amabis CRON[5214]: pam_unix(cron:session): session closed for user root
+Mar  1 11:09:01 debian-amabis CRON[5281]: pam_unix(cron:session): session opened for user root by (uid=0)
+Mar  1 11:09:01 debian-amabis CRON[5281]: pam_unix(cron:session): session closed for user root
+Mar  1 11:17:01 debian-amabis CRON[5348]: pam_unix(cron:session): session opened for user root by (uid=0)
+Mar  1 11:17:01 debian-amabis CRON[5348]: pam_unix(cron:session): session closed for user root
+Mar  1 11:39:01 debian-amabis CRON[5360]: pam_unix(cron:session): session opened for user root by (uid=0)
+Mar  1 11:39:01 debian-amabis CRON[5360]: pam_unix(cron:session): session closed for user root
+Mar  1 12:09:01 debian-amabis CRON[5427]: pam_unix(cron:session): session opened for user root by (uid=0)
+Mar  1 12:09:01 debian-amabis CRON[5427]: pam_unix(cron:session): session closed for user root
+Mar  1 12:17:01 debian-amabis CRON[5485]: pam_unix(cron:session): session opened for user root by (uid=0)
+Mar  1 12:17:01 debian-amabis CRON[5485]: pam_unix(cron:session): session closed for user root
+Mar  1 12:39:01 debian-amabis CRON[5497]: pam_unix(cron:session): session opened for user root by (uid=0)
+Mar  1 12:39:01 debian-amabis CRON[5497]: pam_unix(cron:session): session closed for user root
+Mar  1 13:09:01 debian-amabis CRON[5564]: pam_unix(cron:session): session opened for user root by (uid=0)
+Mar  1 13:09:01 debian-amabis CRON[5564]: pam_unix(cron:session): session closed for user root
+Mar  1 13:17:01 debian-amabis CRON[5663]: pam_unix(cron:session): session opened for user root by (uid=0)
+Mar  1 13:17:01 debian-amabis CRON[5663]: pam_unix(cron:session): session closed for user root
+Mar  1 13:38:10 debian-amabis sshd[5675]: Accepted publickey for admin from 86.242.209.52 port 50366 ssh2: RSA SHA256:1vCmIhJHZ5xAGh0tK77iP8DvPf4sTdPKm1RVVXL5lO8
+Mar  1 13:38:10 debian-amabis sshd[5675]: pam_unix(sshd:session): session opened for user admin by (uid=0)
+Mar  1 13:38:10 debian-amabis systemd-logind[487]: New session 73 of user admin.
+Mar  1 13:39:01 debian-amabis CRON[5694]: pam_unix(cron:session): session opened for user root by (uid=0)
+Mar  1 13:39:01 debian-amabis CRON[5694]: pam_unix(cron:session): session closed for user root
+Mar  1 13:39:03 debian-amabis sudo:    admin : unable to resolve host debian-amabis
+Mar  1 13:39:03 debian-amabis sudo:    admin : problem with defaults entries ; TTY=pts/0 ; PWD=/tmp ; USER=root ;
+Mar  1 13:39:03 debian-amabis sudo:    admin : TTY=pts/0 ; PWD=/tmp ; USER=root ; COMMAND=./certbot-auto --cb-auto-has-root certonly --webroot --webroot-path /srv/www/domain.tld/ --domain domain.tld --domain www.domain.tld --email mon@email.com
+Mar  1 13:39:03 debian-amabis sudo: pam_unix(sudo:session): session opened for user root by admin(uid=0)
+Mar  1 13:39:04 debian-amabis sudo: pam_unix(sudo:session): session closed for user root
+Mar  1 13:40:46 debian-amabis sudo:    admin : unable to resolve host debian-amabis
+Mar  1 13:40:46 debian-amabis sudo:    admin : problem with defaults entries ; TTY=pts/0 ; PWD=/tmp ; USER=root ;
+Mar  1 13:40:46 debian-amabis sudo:    admin : TTY=pts/0 ; PWD=/tmp ; USER=root ; COMMAND=./certbot-auto --cb-auto-has-root certonly --webroot --webroot-path /var/www/html/glpi --domain glpi-kb.tk --domain www.glpi-kb.tk --email karimbaidi@gmail.com
+Mar  1 13:40:46 debian-amabis sudo: pam_unix(sudo:session): session opened for user root by admin(uid=0)
+Mar  1 13:41:16 debian-amabis sudo: pam_unix(sudo:session): session closed for user root
+Mar  1 13:42:27 debian-amabis sudo:    admin : unable to resolve host debian-amabis
+Mar  1 13:42:27 debian-amabis sudo:    admin : problem with defaults entries ; TTY=pts/0 ; PWD=/tmp ; USER=root ;
+Mar  1 13:42:27 debian-amabis sudo:    admin : TTY=pts/0 ; PWD=/tmp ; USER=root ; COMMAND=/bin/ls -l /etc/letsencrypt/accounts/
+Mar  1 13:42:27 debian-amabis sudo: pam_unix(sudo:session): session opened for user root by admin(uid=0)
+Mar  1 13:42:27 debian-amabis sudo: pam_unix(sudo:session): session closed for user root
+Mar  1 13:42:38 debian-amabis sudo:    admin : unable to resolve host debian-amabis
+Mar  1 13:42:38 debian-amabis sudo:    admin : problem with defaults entries ; TTY=pts/0 ; PWD=/tmp ; USER=root ;
+Mar  1 13:42:38 debian-amabis sudo:    admin : TTY=pts/0 ; PWD=/tmp ; USER=root ; COMMAND=/bin/ls -l /etc/letsencrypt/keys/
+Mar  1 13:42:38 debian-amabis sudo: pam_unix(sudo:session): session opened for user root by admin(uid=0)
+Mar  1 13:42:38 debian-amabis sudo: pam_unix(sudo:session): session closed for user root
+Mar  1 13:42:50 debian-amabis sudo:    admin : unable to resolve host debian-amabis
+Mar  1 13:42:50 debian-amabis sudo:    admin : problem with defaults entries ; TTY=pts/0 ; PWD=/tmp ; USER=root ;
+Mar  1 13:42:50 debian-amabis sudo:    admin : TTY=pts/0 ; PWD=/tmp ; USER=root ; COMMAND=/bin/ls -l /etc/letsencrypt/renewal
+Mar  1 13:42:50 debian-amabis sudo: pam_unix(sudo:session): session opened for user root by admin(uid=0)
+Mar  1 13:42:50 debian-amabis sudo: pam_unix(sudo:session): session closed for user root
+Mar  1 13:42:56 debian-amabis sudo:    admin : unable to resolve host debian-amabis
+Mar  1 13:42:56 debian-amabis sudo:    admin : problem with defaults entries ; TTY=pts/0 ; PWD=/tmp ; USER=root ;
+Mar  1 13:42:56 debian-amabis sudo:    admin : TTY=pts/0 ; PWD=/tmp ; USER=root ; COMMAND=/bin/ls -l /etc/letsencrypt/renewal-hooks/
+Mar  1 13:42:56 debian-amabis sudo: pam_unix(sudo:session): session opened for user root by admin(uid=0)
+Mar  1 13:42:56 debian-amabis sudo: pam_unix(sudo:session): session closed for user root
+Mar  1 13:48:51 debian-amabis sudo:    admin : unable to resolve host debian-amabis
+Mar  1 13:48:51 debian-amabis sudo:    admin : problem with defaults entries ; TTY=pts/0 ; PWD=/etc/apache2/sites-available ; USER=root ;
+Mar  1 13:48:51 debian-amabis sudo:    admin : TTY=pts/0 ; PWD=/etc/apache2/sites-available ; USER=root ; COMMAND=/usr/bin/vi 000-default.conf
+Mar  1 13:48:51 debian-amabis sudo: pam_unix(sudo:session): session opened for user root by admin(uid=0)
+Mar  1 13:50:52 debian-amabis sudo: pam_unix(sudo:session): session closed for user root
+Mar  1 13:51:46 debian-amabis sudo:    admin : unable to resolve host debian-amabis
+Mar  1 13:51:46 debian-amabis sudo:    admin : problem with defaults entries ; TTY=pts/0 ; PWD=/etc/apache2/sites-available ; USER=root ;
+Mar  1 13:51:46 debian-amabis sudo:    admin : TTY=pts/0 ; PWD=/etc/apache2/sites-available ; USER=root ; COMMAND=/usr/bin/vi 000-default.conf
+Mar  1 13:51:46 debian-amabis sudo: pam_unix(sudo:session): session opened for user root by admin(uid=0)
+Mar  1 13:56:16 debian-amabis sshd[5933]: Accepted publickey for admin from 86.242.209.52 port 50550 ssh2: RSA SHA256:1vCmIhJHZ5xAGh0tK77iP8DvPf4sTdPKm1RVVXL5lO8
+Mar  1 13:56:16 debian-amabis sshd[5933]: pam_unix(sshd:session): session opened for user admin by (uid=0)
+Mar  1 13:56:16 debian-amabis systemd-logind[487]: New session 75 of user admin.
+Mar  1 13:56:19 debian-amabis sudo:    admin : unable to resolve host debian-amabis
+Mar  1 13:56:19 debian-amabis sudo:    admin : problem with defaults entries ; TTY=pts/1 ; PWD=/home/admin ; USER=root ;
+Mar  1 13:56:19 debian-amabis sudo:    admin : TTY=pts/1 ; PWD=/home/admin ; USER=root ; COMMAND=/bin/su
+Mar  1 13:56:19 debian-amabis sudo: pam_unix(sudo:session): session opened for user root by admin(uid=0)
+Mar  1 13:56:19 debian-amabis su[5952]: Successful su for root by root
+Mar  1 13:56:19 debian-amabis su[5952]: + /dev/pts/1 root:root
+Mar  1 13:56:19 debian-amabis su[5952]: pam_unix(su:session): session opened for user root by admin(uid=0)
+Mar  1 13:56:19 debian-amabis su[5952]: pam_systemd(su:session): Cannot create session: Already running in a session
+Mar  1 14:01:49 debian-amabis sudo: pam_unix(sudo:session): session closed for user root
+Mar  1 14:02:16 debian-amabis sudo:    admin : unable to resolve host debian-amabis
+Mar  1 14:02:16 debian-amabis sudo:    admin : problem with defaults entries ; TTY=pts/0 ; PWD=/etc/apache2/sites-available ; USER=root ;
+Mar  1 14:02:16 debian-amabis sudo:    admin : TTY=pts/0 ; PWD=/etc/apache2/sites-available ; USER=root ; COMMAND=/usr/bin/vi 000-default.conf
+Mar  1 14:02:16 debian-amabis sudo: pam_unix(sudo:session): session opened for user root by admin(uid=0)
+Mar  1 14:04:04 debian-amabis sudo: pam_unix(sudo:session): session closed for user root
+Mar  1 14:05:05 debian-amabis sudo:    admin : unable to resolve host debian-amabis
+Mar  1 14:05:05 debian-amabis sudo:    admin : problem with defaults entries ; TTY=pts/0 ; PWD=/etc/apache2/sites-available ; USER=root ;
+Mar  1 14:05:05 debian-amabis sudo:    admin : TTY=pts/0 ; PWD=/etc/apache2/sites-available ; USER=root ; COMMAND=/bin/su
+Mar  1 14:05:05 debian-amabis sudo: pam_unix(sudo:session): session opened for user root by admin(uid=0)
+Mar  1 14:05:05 debian-amabis su[5963]: Successful su for root by root
+Mar  1 14:05:05 debian-amabis su[5963]: + /dev/pts/0 root:root
+Mar  1 14:05:05 debian-amabis su[5963]: pam_unix(su:session): session opened for user root by admin(uid=0)
+Mar  1 14:05:05 debian-amabis su[5963]: pam_systemd(su:session): Cannot create session: Already running in a session
+Mar  1 14:09:01 debian-amabis CRON[5998]: pam_unix(cron:session): session opened for user root by (uid=0)
+Mar  1 14:09:01 debian-amabis CRON[5998]: pam_unix(cron:session): session closed for user root
+Mar  1 14:17:01 debian-amabis CRON[6106]: pam_unix(cron:session): session opened for user root by (uid=0)
+Mar  1 14:17:01 debian-amabis CRON[6106]: pam_unix(cron:session): session closed for user root
+Mar  1 14:39:01 debian-amabis CRON[6155]: pam_unix(cron:session): session opened for user root by (uid=0)
+Mar  1 14:39:01 debian-amabis CRON[6155]: pam_unix(cron:session): session closed for user root
+Mar  1 15:09:01 debian-amabis CRON[6211]: pam_unix(cron:session): session opened for user root by (uid=0)
+Mar  1 15:09:01 debian-amabis CRON[6211]: pam_unix(cron:session): session closed for user root
+Mar  1 15:17:01 debian-amabis CRON[6258]: pam_unix(cron:session): session opened for user root by (uid=0)
+Mar  1 15:17:01 debian-amabis CRON[6258]: pam_unix(cron:session): session closed for user root
+Mar  1 15:27:28 debian-amabis sshd[5681]: Received disconnect from 86.242.209.52 port 50366:11: disconnected by user
+Mar  1 15:27:28 debian-amabis sshd[5681]: Disconnected from 86.242.209.52 port 50366
+Mar  1 15:27:28 debian-amabis sshd[5939]: Received disconnect from 86.242.209.52 port 50550:11: disconnected by user
+Mar  1 15:27:28 debian-amabis sshd[5939]: Disconnected from 86.242.209.52 port 50550
+Mar  1 15:27:28 debian-amabis sshd[5675]: pam_unix(sshd:session): session closed for user admin
+Mar  1 15:27:28 debian-amabis sshd[5933]: pam_unix(sshd:session): session closed for user admin
+Mar  1 15:27:28 debian-amabis su[5952]: pam_unix(su:session): session closed for user root
+Mar  1 15:27:28 debian-amabis sudo: pam_unix(sudo:session): session closed for user root
+Mar  1 15:27:28 debian-amabis systemd-logind[487]: Removed session 75.
+Mar  1 15:27:28 debian-amabis su[5963]: pam_unix(su:session): session closed for user root
+Mar  1 15:27:28 debian-amabis systemd-logind[487]: Removed session 73.
+Mar  1 15:27:28 debian-amabis sudo: pam_unix(sudo:session): session closed for user root
+Mar  1 15:39:01 debian-amabis CRON[6273]: pam_unix(cron:session): session opened for user root by (uid=0)
+Mar  1 15:39:01 debian-amabis CRON[6273]: pam_unix(cron:session): session closed for user root
+Mar  1 16:09:01 debian-amabis CRON[6329]: pam_unix(cron:session): session opened for user root by (uid=0)
+Mar  1 16:09:01 debian-amabis CRON[6329]: pam_unix(cron:session): session closed for user root
+Mar  1 16:17:01 debian-amabis CRON[6376]: pam_unix(cron:session): session opened for user root by (uid=0)
+Mar  1 16:17:01 debian-amabis CRON[6376]: pam_unix(cron:session): session closed for user root
+Mar  1 16:39:01 debian-amabis CRON[6388]: pam_unix(cron:session): session opened for user root by (uid=0)
+Mar  1 16:39:01 debian-amabis CRON[6388]: pam_unix(cron:session): session closed for user root
+Mar  1 17:09:01 debian-amabis CRON[6444]: pam_unix(cron:session): session opened for user root by (uid=0)
+Mar  1 17:09:01 debian-amabis CRON[6444]: pam_unix(cron:session): session closed for user root
+Mar  1 17:17:01 debian-amabis CRON[6500]: pam_unix(cron:session): session opened for user root by (uid=0)
+Mar  1 17:17:01 debian-amabis CRON[6500]: pam_unix(cron:session): session closed for user root
+Mar  1 17:39:01 debian-amabis CRON[6506]: pam_unix(cron:session): session opened for user root by (uid=0)
+Mar  1 17:39:01 debian-amabis CRON[6506]: pam_unix(cron:session): session closed for user root
+Mar  1 18:09:01 debian-amabis CRON[6562]: pam_unix(cron:session): session opened for user root by (uid=0)
+Mar  1 18:09:01 debian-amabis CRON[6562]: pam_unix(cron:session): session closed for user root
+Mar  1 18:17:01 debian-amabis CRON[6618]: pam_unix(cron:session): session opened for user root by (uid=0)
+Mar  1 18:17:01 debian-amabis CRON[6618]: pam_unix(cron:session): session closed for user root
+Mar  1 18:39:01 debian-amabis CRON[6630]: pam_unix(cron:session): session opened for user root by (uid=0)
+Mar  1 18:39:01 debian-amabis CRON[6630]: pam_unix(cron:session): session closed for user root
+Mar  1 19:09:01 debian-amabis CRON[6686]: pam_unix(cron:session): session opened for user root by (uid=0)
+Mar  1 19:09:01 debian-amabis CRON[6686]: pam_unix(cron:session): session closed for user root
+Mar  1 19:17:01 debian-amabis CRON[6733]: pam_unix(cron:session): session opened for user root by (uid=0)
+Mar  1 19:17:01 debian-amabis CRON[6733]: pam_unix(cron:session): session closed for user root
+Mar  1 19:39:01 debian-amabis CRON[6745]: pam_unix(cron:session): session opened for user root by (uid=0)
+Mar  1 19:39:01 debian-amabis CRON[6745]: pam_unix(cron:session): session closed for user root
+Mar  1 20:09:01 debian-amabis CRON[6801]: pam_unix(cron:session): session opened for user root by (uid=0)
+Mar  1 20:09:01 debian-amabis CRON[6801]: pam_unix(cron:session): session closed for user root
+Mar  1 20:17:01 debian-amabis CRON[6848]: pam_unix(cron:session): session opened for user root by (uid=0)
+Mar  1 20:17:01 debian-amabis CRON[6848]: pam_unix(cron:session): session closed for user root
+Mar  1 20:39:01 debian-amabis CRON[6860]: pam_unix(cron:session): session opened for user root by (uid=0)
+Mar  1 20:39:01 debian-amabis CRON[6860]: pam_unix(cron:session): session closed for user root
+Mar  1 21:09:01 debian-amabis CRON[6916]: pam_unix(cron:session): session opened for user root by (uid=0)
+Mar  1 21:09:01 debian-amabis CRON[6916]: pam_unix(cron:session): session closed for user root
+Mar  1 21:17:01 debian-amabis CRON[6972]: pam_unix(cron:session): session opened for user root by (uid=0)
+Mar  1 21:17:01 debian-amabis CRON[6972]: pam_unix(cron:session): session closed for user root
+Mar  1 21:39:01 debian-amabis CRON[6975]: pam_unix(cron:session): session opened for user root by (uid=0)
+Mar  1 21:39:01 debian-amabis CRON[6975]: pam_unix(cron:session): session closed for user root
+Mar  1 22:09:01 debian-amabis CRON[7071]: pam_unix(cron:session): session opened for user root by (uid=0)
+Mar  1 22:09:01 debian-amabis CRON[7071]: pam_unix(cron:session): session closed for user root
+Mar  1 22:17:01 debian-amabis CRON[7127]: pam_unix(cron:session): session opened for user root by (uid=0)
+Mar  1 22:17:01 debian-amabis CRON[7127]: pam_unix(cron:session): session closed for user root
+Mar  1 22:39:01 debian-amabis CRON[7140]: pam_unix(cron:session): session opened for user root by (uid=0)
+Mar  1 22:39:01 debian-amabis CRON[7140]: pam_unix(cron:session): session closed for user root
+Mar  1 23:09:01 debian-amabis CRON[7196]: pam_unix(cron:session): session opened for user root by (uid=0)
+Mar  1 23:09:01 debian-amabis CRON[7196]: pam_unix(cron:session): session closed for user root
+Mar  1 23:17:01 debian-amabis CRON[7243]: pam_unix(cron:session): session opened for user root by (uid=0)
+Mar  1 23:17:01 debian-amabis CRON[7243]: pam_unix(cron:session): session closed for user root
+Mar  1 23:39:01 debian-amabis CRON[7255]: pam_unix(cron:session): session opened for user root by (uid=0)
+Mar  1 23:39:01 debian-amabis CRON[7255]: pam_unix(cron:session): session closed for user root
+Mar  2 00:09:01 debian-amabis CRON[7311]: pam_unix(cron:session): session opened for user root by (uid=0)
+Mar  2 00:09:01 debian-amabis CRON[7311]: pam_unix(cron:session): session closed for user root
+Mar  2 00:17:01 debian-amabis CRON[7367]: pam_unix(cron:session): session opened for user root by (uid=0)
+Mar  2 00:17:01 debian-amabis CRON[7367]: pam_unix(cron:session): session closed for user root
+Mar  2 00:39:01 debian-amabis CRON[7370]: pam_unix(cron:session): session opened for user root by (uid=0)
+Mar  2 00:39:01 debian-amabis CRON[7370]: pam_unix(cron:session): session closed for user root
+Mar  2 01:09:01 debian-amabis CRON[7435]: pam_unix(cron:session): session opened for user root by (uid=0)
+Mar  2 01:09:01 debian-amabis CRON[7435]: pam_unix(cron:session): session closed for user root
+Mar  2 01:17:01 debian-amabis CRON[7482]: pam_unix(cron:session): session opened for user root by (uid=0)
+Mar  2 01:17:01 debian-amabis CRON[7482]: pam_unix(cron:session): session closed for user root
+Mar  2 01:39:01 debian-amabis CRON[7494]: pam_unix(cron:session): session opened for user root by (uid=0)
+Mar  2 01:39:01 debian-amabis CRON[7494]: pam_unix(cron:session): session closed for user root
+Mar  2 02:09:01 debian-amabis CRON[7550]: pam_unix(cron:session): session opened for user root by (uid=0)
+Mar  2 02:09:01 debian-amabis CRON[7550]: pam_unix(cron:session): session closed for user root
+Mar  2 02:17:01 debian-amabis CRON[7597]: pam_unix(cron:session): session opened for user root by (uid=0)
+Mar  2 02:17:01 debian-amabis CRON[7597]: pam_unix(cron:session): session closed for user root
+Mar  2 02:39:01 debian-amabis CRON[7609]: pam_unix(cron:session): session opened for user root by (uid=0)
+Mar  2 02:39:01 debian-amabis CRON[7609]: pam_unix(cron:session): session closed for user root
+Mar  2 03:09:01 debian-amabis CRON[7665]: pam_unix(cron:session): session opened for user root by (uid=0)
+Mar  2 03:09:01 debian-amabis CRON[7665]: pam_unix(cron:session): session closed for user root
+Mar  2 03:17:01 debian-amabis CRON[7721]: pam_unix(cron:session): session opened for user root by (uid=0)
+Mar  2 03:17:01 debian-amabis CRON[7721]: pam_unix(cron:session): session closed for user root
+Mar  2 03:39:01 debian-amabis CRON[7724]: pam_unix(cron:session): session opened for user root by (uid=0)
+Mar  2 03:39:01 debian-amabis CRON[7724]: pam_unix(cron:session): session closed for user root
+Mar  2 04:09:01 debian-amabis CRON[7789]: pam_unix(cron:session): session opened for user root by (uid=0)
+Mar  2 04:09:01 debian-amabis CRON[7789]: pam_unix(cron:session): session closed for user root
+Mar  2 04:17:01 debian-amabis CRON[7836]: pam_unix(cron:session): session opened for user root by (uid=0)
+Mar  2 04:17:01 debian-amabis CRON[7836]: pam_unix(cron:session): session closed for user root
+Mar  2 04:39:01 debian-amabis CRON[7848]: pam_unix(cron:session): session opened for user root by (uid=0)
+Mar  2 04:39:01 debian-amabis CRON[7848]: pam_unix(cron:session): session closed for user root
+Mar  2 05:09:01 debian-amabis CRON[7904]: pam_unix(cron:session): session opened for user root by (uid=0)
+Mar  2 05:09:01 debian-amabis CRON[7904]: pam_unix(cron:session): session closed for user root
+Mar  2 05:17:01 debian-amabis CRON[7951]: pam_unix(cron:session): session opened for user root by (uid=0)
+Mar  2 05:17:01 debian-amabis CRON[7951]: pam_unix(cron:session): session closed for user root
+Mar  2 05:39:01 debian-amabis CRON[7963]: pam_unix(cron:session): session opened for user root by (uid=0)
+Mar  2 05:39:01 debian-amabis CRON[7963]: pam_unix(cron:session): session closed for user root
+Mar  2 06:09:01 debian-amabis CRON[8019]: pam_unix(cron:session): session opened for user root by (uid=0)
+Mar  2 06:09:01 debian-amabis CRON[8019]: pam_unix(cron:session): session closed for user root
+Mar  2 06:17:01 debian-amabis CRON[8075]: pam_unix(cron:session): session opened for user root by (uid=0)
+Mar  2 06:17:01 debian-amabis CRON[8075]: pam_unix(cron:session): session closed for user root
+Mar  2 06:25:01 debian-amabis CRON[8078]: pam_unix(cron:session): session opened for user root by (uid=0)
+Mar  2 06:25:01 debian-amabis su[8147]: Successful su for nobody by root
+Mar  2 06:25:01 debian-amabis su[8147]: + ??? root:nobody
+Mar  2 06:25:01 debian-amabis su[8147]: pam_unix(su:session): session opened for user nobody by (uid=0)
+Mar  2 06:25:01 debian-amabis systemd-logind[487]: New session 126 of user nobody.
+Mar  2 06:25:01 debian-amabis systemd: pam_unix(systemd-user:session): session opened for user nobody by (uid=0)
+Mar  2 06:25:01 debian-amabis su[8147]: pam_unix(su:session): session closed for user nobody
+Mar  2 06:25:01 debian-amabis systemd-logind[487]: Removed session 126.
+Mar  2 06:25:01 debian-amabis systemd: pam_unix(systemd-user:session): session closed for user nobody
+Mar  2 06:25:01 debian-amabis su[8152]: Successful su for nobody by root
+Mar  2 06:25:01 debian-amabis su[8152]: + ??? root:nobody
+Mar  2 06:25:01 debian-amabis su[8152]: pam_unix(su:session): session opened for user nobody by (uid=0)
+Mar  2 06:25:01 debian-amabis systemd-logind[487]: New session 126 of user nobody.
+Mar  2 06:25:01 debian-amabis systemd: pam_unix(systemd-user:session): session opened for user nobody by (uid=0)
+Mar  2 06:25:01 debian-amabis su[8152]: pam_unix(su:session): session closed for user nobody
+Mar  2 06:25:01 debian-amabis systemd-logind[487]: Removed session 126.
+Mar  2 06:25:01 debian-amabis su[8166]: Successful su for nobody by root
+Mar  2 06:25:01 debian-amabis su[8166]: + ??? root:nobody
+Mar  2 06:25:01 debian-amabis systemd: pam_unix(systemd-user:session): session closed for user nobody
+Mar  2 06:25:02 debian-amabis su[8166]: pam_unix(su:session): session opened for user nobody by (uid=0)
+Mar  2 06:25:02 debian-amabis systemd-logind[487]: New session 126 of user nobody.
+Mar  2 06:25:02 debian-amabis systemd: pam_unix(systemd-user:session): session opened for user nobody by (uid=0)
+Mar  2 06:25:02 debian-amabis su[8166]: pam_unix(su:session): session closed for user nobody
+Mar  2 06:25:02 debian-amabis systemd-logind[487]: Removed session 126.
+Mar  2 06:25:02 debian-amabis systemd: pam_unix(systemd-user:session): session closed for user nobody
+Mar  2 06:25:02 debian-amabis CRON[8078]: pam_unix(cron:session): session closed for user root
+Mar  2 06:39:01 debian-amabis CRON[8281]: pam_unix(cron:session): session opened for user root by (uid=0)
+Mar  2 06:39:01 debian-amabis CRON[8281]: pam_unix(cron:session): session closed for user root
+Mar  2 07:09:01 debian-amabis CRON[8337]: pam_unix(cron:session): session opened for user root by (uid=0)
+Mar  2 07:09:01 debian-amabis CRON[8337]: pam_unix(cron:session): session closed for user root
+Mar  2 07:17:01 debian-amabis CRON[8393]: pam_unix(cron:session): session opened for user root by (uid=0)
+Mar  2 07:17:01 debian-amabis CRON[8393]: pam_unix(cron:session): session closed for user root
+Mar  2 07:39:01 debian-amabis CRON[8396]: pam_unix(cron:session): session opened for user root by (uid=0)
+Mar  2 07:39:01 debian-amabis CRON[8396]: pam_unix(cron:session): session closed for user root
+Mar  2 08:09:01 debian-amabis CRON[8461]: pam_unix(cron:session): session opened for user root by (uid=0)
+Mar  2 08:09:01 debian-amabis CRON[8461]: pam_unix(cron:session): session closed for user root
+Mar  2 08:17:01 debian-amabis CRON[8508]: pam_unix(cron:session): session opened for user root by (uid=0)
+Mar  2 08:17:01 debian-amabis CRON[8508]: pam_unix(cron:session): session closed for user root
+Mar  2 08:39:01 debian-amabis CRON[8751]: pam_unix(cron:session): session opened for user root by (uid=0)
+Mar  2 08:39:01 debian-amabis CRON[8751]: pam_unix(cron:session): session closed for user root
+Mar  2 09:09:01 debian-amabis CRON[8807]: pam_unix(cron:session): session opened for user root by (uid=0)
+Mar  2 09:09:01 debian-amabis CRON[8807]: pam_unix(cron:session): session closed for user root
+Mar  2 09:17:01 debian-amabis CRON[8854]: pam_unix(cron:session): session opened for user root by (uid=0)
+Mar  2 09:17:01 debian-amabis CRON[8854]: pam_unix(cron:session): session closed for user root
+Mar  2 09:39:01 debian-amabis CRON[8866]: pam_unix(cron:session): session opened for user root by (uid=0)
+Mar  2 09:39:01 debian-amabis CRON[8866]: pam_unix(cron:session): session closed for user root
+Mar  2 10:09:01 debian-amabis CRON[8922]: pam_unix(cron:session): session opened for user root by (uid=0)
+Mar  2 10:09:01 debian-amabis CRON[8922]: pam_unix(cron:session): session closed for user root
+Mar  2 10:17:01 debian-amabis CRON[8978]: pam_unix(cron:session): session opened for user root by (uid=0)
+Mar  2 10:17:01 debian-amabis CRON[8978]: pam_unix(cron:session): session closed for user root
+Mar  2 10:39:01 debian-amabis CRON[8981]: pam_unix(cron:session): session opened for user root by (uid=0)
+Mar  2 10:39:01 debian-amabis CRON[8981]: pam_unix(cron:session): session closed for user root
+Mar  2 11:09:01 debian-amabis CRON[9037]: pam_unix(cron:session): session opened for user root by (uid=0)
+Mar  2 11:09:01 debian-amabis CRON[9037]: pam_unix(cron:session): session closed for user root
+Mar  2 11:17:01 debian-amabis CRON[9093]: pam_unix(cron:session): session opened for user root by (uid=0)
+Mar  2 11:17:01 debian-amabis CRON[9093]: pam_unix(cron:session): session closed for user root
+Mar  2 11:22:03 debian-amabis sshd[9096]: Accepted publickey for admin from 86.242.209.52 port 46340 ssh2: RSA SHA256:1vCmIhJHZ5xAGh0tK77iP8DvPf4sTdPKm1RVVXL5lO8
+Mar  2 11:22:03 debian-amabis sshd[9096]: pam_unix(sshd:session): session opened for user admin by (uid=0)
+Mar  2 11:22:03 debian-amabis systemd-logind[487]: New session 145 of user admin.
+Mar  2 11:22:08 debian-amabis sudo:    admin : unable to resolve host debian-amabis
+Mar  2 11:22:08 debian-amabis sudo:    admin : problem with defaults entries ; TTY=pts/0 ; PWD=/home/admin ; USER=root ;
+Mar  2 11:22:08 debian-amabis sudo:    admin : TTY=pts/0 ; PWD=/home/admin ; USER=root ; COMMAND=/bin/su
+Mar  2 11:22:08 debian-amabis sudo: pam_unix(sudo:session): session opened for user root by admin(uid=0)
+Mar  2 11:22:08 debian-amabis su[9115]: Successful su for root by root
+Mar  2 11:22:08 debian-amabis su[9115]: + /dev/pts/0 root:root
+Mar  2 11:22:08 debian-amabis su[9115]: pam_unix(su:session): session opened for user root by admin(uid=0)
+Mar  2 11:22:08 debian-amabis su[9115]: pam_systemd(su:session): Cannot create session: Already running in a session
+Mar  2 11:23:10 debian-amabis sshd[9128]: Accepted publickey for admin from 86.242.209.52 port 46346 ssh2: RSA SHA256:1vCmIhJHZ5xAGh0tK77iP8DvPf4sTdPKm1RVVXL5lO8
+Mar  2 11:23:10 debian-amabis sshd[9128]: pam_unix(sshd:session): session opened for user admin by (uid=0)
+Mar  2 11:23:10 debian-amabis systemd-logind[487]: New session 146 of user admin.
+Mar  2 11:23:13 debian-amabis sudo:    admin : unable to resolve host debian-amabis
+Mar  2 11:23:13 debian-amabis sudo:    admin : problem with defaults entries ; TTY=pts/1 ; PWD=/home/admin ; USER=root ;
+Mar  2 11:23:13 debian-amabis sudo:    admin : TTY=pts/1 ; PWD=/home/admin ; USER=root ; COMMAND=/bin/su
+Mar  2 11:23:13 debian-amabis sudo: pam_unix(sudo:session): session opened for user root by admin(uid=0)
+Mar  2 11:23:13 debian-amabis su[9147]: Successful su for root by root
+Mar  2 11:23:13 debian-amabis su[9147]: + /dev/pts/1 root:root
+Mar  2 11:23:13 debian-amabis su[9147]: pam_unix(su:session): session opened for user root by admin(uid=0)
+Mar  2 11:23:13 debian-amabis su[9147]: pam_systemd(su:session): Cannot create session: Already running in a session
+Mar  2 11:39:01 debian-amabis CRON[9282]: pam_unix(cron:session): session opened for user root by (uid=0)
+Mar  2 11:39:01 debian-amabis CRON[9282]: pam_unix(cron:session): session closed for user root
+Mar  2 12:00:01 debian-amabis CRON[9920]: pam_unix(cron:session): session opened for user root by (uid=0)
+Mar  2 12:00:01 debian-amabis CRON[9920]: pam_unix(cron:session): session closed for user root
+Mar  2 12:09:01 debian-amabis CRON[10111]: pam_unix(cron:session): session opened for user root by (uid=0)
+Mar  2 12:09:01 debian-amabis CRON[10111]: pam_unix(cron:session): session closed for user root
+Mar  2 12:17:01 debian-amabis CRON[10166]: pam_unix(cron:session): session opened for user root by (uid=0)
+Mar  2 12:17:01 debian-amabis CRON[10166]: pam_unix(cron:session): session closed for user root
+Mar  2 12:39:01 debian-amabis CRON[10178]: pam_unix(cron:session): session opened for user root by (uid=0)
+Mar  2 12:39:01 debian-amabis CRON[10178]: pam_unix(cron:session): session closed for user root
+Mar  2 13:09:01 debian-amabis CRON[10243]: pam_unix(cron:session): session opened for user root by (uid=0)
+Mar  2 13:09:01 debian-amabis CRON[10243]: pam_unix(cron:session): session closed for user root
+Mar  2 13:17:01 debian-amabis CRON[10299]: pam_unix(cron:session): session opened for user root by (uid=0)
+Mar  2 13:17:01 debian-amabis CRON[10299]: pam_unix(cron:session): session closed for user root
+Mar  2 13:39:01 debian-amabis CRON[10311]: pam_unix(cron:session): session opened for user root by (uid=0)
+Mar  2 13:39:01 debian-amabis CRON[10311]: pam_unix(cron:session): session closed for user root
+Mar  2 14:09:01 debian-amabis CRON[10376]: pam_unix(cron:session): session opened for user root by (uid=0)
+Mar  2 14:09:01 debian-amabis CRON[10376]: pam_unix(cron:session): session closed for user root
+Mar  2 14:17:01 debian-amabis CRON[10441]: pam_unix(cron:session): session opened for user root by (uid=0)
+Mar  2 14:17:01 debian-amabis CRON[10441]: pam_unix(cron:session): session closed for user root
+Mar  2 14:39:01 debian-amabis CRON[10609]: pam_unix(cron:session): session opened for user root by (uid=0)
+Mar  2 14:39:01 debian-amabis CRON[10609]: pam_unix(cron:session): session closed for user root
+Mar  2 15:09:01 debian-amabis CRON[10674]: pam_unix(cron:session): session opened for user root by (uid=0)
+Mar  2 15:09:01 debian-amabis CRON[10674]: pam_unix(cron:session): session closed for user root
+Mar  2 15:17:01 debian-amabis CRON[10762]: pam_unix(cron:session): session opened for user root by (uid=0)
+Mar  2 15:17:01 debian-amabis CRON[10762]: pam_unix(cron:session): session closed for user root
+Mar  2 15:39:01 debian-amabis CRON[10897]: pam_unix(cron:session): session opened for user root by (uid=0)
+Mar  2 15:39:01 debian-amabis CRON[10897]: pam_unix(cron:session): session closed for user root
+Mar  2 16:09:01 debian-amabis CRON[11077]: pam_unix(cron:session): session opened for user root by (uid=0)
+Mar  2 16:09:01 debian-amabis CRON[11077]: pam_unix(cron:session): session closed for user root
+Mar  2 16:17:01 debian-amabis CRON[11137]: pam_unix(cron:session): session opened for user root by (uid=0)
+Mar  2 16:17:01 debian-amabis CRON[11137]: pam_unix(cron:session): session closed for user root
+Mar  2 16:39:01 debian-amabis CRON[11149]: pam_unix(cron:session): session opened for user root by (uid=0)
+Mar  2 16:39:01 debian-amabis CRON[11149]: pam_unix(cron:session): session closed for user root
+Mar  2 17:09:01 debian-amabis CRON[11216]: pam_unix(cron:session): session opened for user root by (uid=0)
+Mar  2 17:09:01 debian-amabis CRON[11216]: pam_unix(cron:session): session closed for user root
+Mar  2 17:17:01 debian-amabis CRON[11274]: pam_unix(cron:session): session opened for user root by (uid=0)
+Mar  2 17:17:01 debian-amabis CRON[11274]: pam_unix(cron:session): session closed for user root
+Mar  2 17:39:01 debian-amabis CRON[11292]: pam_unix(cron:session): session opened for user root by (uid=0)
+Mar  2 17:39:01 debian-amabis CRON[11292]: pam_unix(cron:session): session closed for user root
+Mar  2 18:09:01 debian-amabis CRON[11434]: pam_unix(cron:session): session opened for user root by (uid=0)
+Mar  2 18:09:01 debian-amabis CRON[11434]: pam_unix(cron:session): session closed for user root
+Mar  2 18:17:01 debian-amabis CRON[11499]: pam_unix(cron:session): session opened for user root by (uid=0)
+Mar  2 18:17:01 debian-amabis CRON[11499]: pam_unix(cron:session): session closed for user root
+Mar  2 18:31:51 debian-amabis su[11630]: Successful su for admin by root
+Mar  2 18:31:51 debian-amabis su[11630]: + /dev/pts/1 root:admin
+Mar  2 18:31:51 debian-amabis su[11630]: pam_unix(su:session): session opened for user admin by admin(uid=0)
+Mar  2 18:31:51 debian-amabis su[11630]: pam_systemd(su:session): Cannot create session: Already running in a session
+Mar  2 18:33:12 debian-amabis sudo:    admin : unable to resolve host debian-amabis
+Mar  2 18:33:12 debian-amabis sudo:    admin : problem with defaults entries ; TTY=pts/1 ; PWD=/ ; USER=root ;
+Mar  2 18:33:12 debian-amabis sudo:    admin : TTY=pts/1 ; PWD=/ ; USER=root ; COMMAND=/bin/su
+Mar  2 18:33:12 debian-amabis sudo: pam_unix(sudo:session): session opened for user root by admin(uid=0)
+Mar  2 18:33:12 debian-amabis su[11659]: Successful su for root by root
+Mar  2 18:33:12 debian-amabis su[11659]: + /dev/pts/1 root:root
+Mar  2 18:33:12 debian-amabis su[11659]: pam_unix(su:session): session opened for user root by admin(uid=0)
+Mar  2 18:33:12 debian-amabis su[11659]: pam_systemd(su:session): Cannot create session: Already running in a session
+Mar  2 18:39:01 debian-amabis CRON[11686]: pam_unix(cron:session): session opened for user root by (uid=0)
+Mar  2 18:39:01 debian-amabis CRON[11686]: pam_unix(cron:session): session closed for user root

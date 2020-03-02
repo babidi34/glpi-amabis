@@ -1,0 +1,759 @@
+Mar  2 06:26:28 debian-amabis dhclient[370]: XMT: Solicit on eth0, interval 110990ms.
+Mar  2 06:28:19 debian-amabis dhclient[370]: XMT: Solicit on eth0, interval 113220ms.
+Mar  2 06:30:13 debian-amabis dhclient[370]: XMT: Solicit on eth0, interval 108350ms.
+Mar  2 06:32:01 debian-amabis dhclient[370]: XMT: Solicit on eth0, interval 116990ms.
+Mar  2 06:32:01 debian-amabis systemd[1]: Starting Daily apt upgrade and clean activities...
+Mar  2 06:32:03 debian-amabis systemd[1]: Started Daily apt upgrade and clean activities.
+Mar  2 06:32:03 debian-amabis systemd[1]: apt-daily-upgrade.timer: Adding 41min 59.538095s random time.
+Mar  2 06:32:03 debian-amabis systemd[1]: apt-daily-upgrade.timer: Adding 21min 19.203716s random time.
+Mar  2 06:33:58 debian-amabis dhclient[370]: XMT: Solicit on eth0, interval 119310ms.
+Mar  2 06:35:58 debian-amabis dhclient[370]: XMT: Solicit on eth0, interval 125380ms.
+Mar  2 06:38:03 debian-amabis dhclient[370]: XMT: Solicit on eth0, interval 122480ms.
+Mar  2 06:39:01 debian-amabis CRON[8282]: (root) CMD (  [ -x /usr/lib/php/sessionclean ] && if [ ! -d /run/systemd/system ]; then /usr/lib/php/sessionclean; fi)
+Mar  2 06:39:27 debian-amabis systemd[1]: Starting Clean php session files...
+Mar  2 06:39:27 debian-amabis systemd[1]: Started Clean php session files.
+Mar  2 06:40:06 debian-amabis dhclient[370]: XMT: Solicit on eth0, interval 111430ms.
+Mar  2 06:41:57 debian-amabis dhclient[370]: XMT: Solicit on eth0, interval 113080ms.
+Mar  2 06:42:40 debian-amabis dhclient[309]: DHCPREQUEST of 172.31.32.178 on eth0 to 172.31.32.1 port 67
+Mar  2 06:42:40 debian-amabis dhclient[309]: DHCPACK of 172.31.32.178 from 172.31.32.1
+Mar  2 06:42:40 debian-amabis dhclient[309]: bound to 172.31.32.178 -- renewal in 1612 seconds.
+Mar  2 06:43:50 debian-amabis dhclient[370]: XMT: Solicit on eth0, interval 115970ms.
+Mar  2 06:45:46 debian-amabis dhclient[370]: XMT: Solicit on eth0, interval 114260ms.
+Mar  2 06:47:41 debian-amabis dhclient[370]: XMT: Solicit on eth0, interval 116660ms.
+Mar  2 06:49:38 debian-amabis dhclient[370]: XMT: Solicit on eth0, interval 123550ms.
+Mar  2 06:51:41 debian-amabis dhclient[370]: XMT: Solicit on eth0, interval 112160ms.
+Mar  2 06:53:33 debian-amabis dhclient[370]: XMT: Solicit on eth0, interval 122140ms.
+Mar  2 06:55:36 debian-amabis dhclient[370]: XMT: Solicit on eth0, interval 108510ms.
+Mar  2 06:57:24 debian-amabis dhclient[370]: XMT: Solicit on eth0, interval 119280ms.
+Mar  2 06:59:24 debian-amabis dhclient[370]: XMT: Solicit on eth0, interval 108830ms.
+Mar  2 07:01:13 debian-amabis dhclient[370]: XMT: Solicit on eth0, interval 109780ms.
+Mar  2 07:03:02 debian-amabis dhclient[370]: XMT: Solicit on eth0, interval 109450ms.
+Mar  2 07:04:52 debian-amabis dhclient[370]: XMT: Solicit on eth0, interval 123720ms.
+Mar  2 07:06:56 debian-amabis dhclient[370]: XMT: Solicit on eth0, interval 117130ms.
+Mar  2 07:08:53 debian-amabis dhclient[370]: XMT: Solicit on eth0, interval 125180ms.
+Mar  2 07:09:01 debian-amabis CRON[8338]: (root) CMD (  [ -x /usr/lib/php/sessionclean ] && if [ ! -d /run/systemd/system ]; then /usr/lib/php/sessionclean; fi)
+Mar  2 07:09:27 debian-amabis systemd[1]: Starting Clean php session files...
+Mar  2 07:09:27 debian-amabis systemd[1]: Started Clean php session files.
+Mar  2 07:09:33 debian-amabis dhclient[309]: DHCPREQUEST of 172.31.32.178 on eth0 to 172.31.32.1 port 67
+Mar  2 07:09:33 debian-amabis dhclient[309]: DHCPACK of 172.31.32.178 from 172.31.32.1
+Mar  2 07:09:33 debian-amabis dhclient[309]: bound to 172.31.32.178 -- renewal in 1769 seconds.
+Mar  2 07:10:58 debian-amabis dhclient[370]: XMT: Solicit on eth0, interval 128410ms.
+Mar  2 07:13:07 debian-amabis dhclient[370]: XMT: Solicit on eth0, interval 130820ms.
+Mar  2 07:15:18 debian-amabis dhclient[370]: XMT: Solicit on eth0, interval 110220ms.
+Mar  2 07:17:01 debian-amabis CRON[8394]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Mar  2 07:17:08 debian-amabis dhclient[370]: XMT: Solicit on eth0, interval 131820ms.
+Mar  2 07:19:20 debian-amabis dhclient[370]: XMT: Solicit on eth0, interval 126880ms.
+Mar  2 07:21:27 debian-amabis dhclient[370]: XMT: Solicit on eth0, interval 116810ms.
+Mar  2 07:23:24 debian-amabis dhclient[370]: XMT: Solicit on eth0, interval 114920ms.
+Mar  2 07:25:19 debian-amabis dhclient[370]: XMT: Solicit on eth0, interval 121150ms.
+Mar  2 07:27:20 debian-amabis dhclient[370]: XMT: Solicit on eth0, interval 131950ms.
+Mar  2 07:29:32 debian-amabis dhclient[370]: XMT: Solicit on eth0, interval 121150ms.
+Mar  2 07:31:33 debian-amabis dhclient[370]: XMT: Solicit on eth0, interval 127920ms.
+Mar  2 07:33:41 debian-amabis dhclient[370]: XMT: Solicit on eth0, interval 122540ms.
+Mar  2 07:35:44 debian-amabis dhclient[370]: XMT: Solicit on eth0, interval 119890ms.
+Mar  2 07:37:44 debian-amabis dhclient[370]: XMT: Solicit on eth0, interval 124180ms.
+Mar  2 07:39:01 debian-amabis CRON[8397]: (root) CMD (  [ -x /usr/lib/php/sessionclean ] && if [ ! -d /run/systemd/system ]; then /usr/lib/php/sessionclean; fi)
+Mar  2 07:39:02 debian-amabis dhclient[309]: DHCPREQUEST of 172.31.32.178 on eth0 to 172.31.32.1 port 67
+Mar  2 07:39:02 debian-amabis dhclient[309]: DHCPACK of 172.31.32.178 from 172.31.32.1
+Mar  2 07:39:02 debian-amabis dhclient[309]: bound to 172.31.32.178 -- renewal in 1700 seconds.
+Mar  2 07:39:27 debian-amabis systemd[1]: Starting Clean php session files...
+Mar  2 07:39:27 debian-amabis systemd[1]: Started Clean php session files.
+Mar  2 07:39:48 debian-amabis dhclient[370]: XMT: Solicit on eth0, interval 128330ms.
+Mar  2 07:41:57 debian-amabis dhclient[370]: XMT: Solicit on eth0, interval 121500ms.
+Mar  2 07:43:58 debian-amabis dhclient[370]: XMT: Solicit on eth0, interval 119570ms.
+Mar  2 07:45:58 debian-amabis dhclient[370]: XMT: Solicit on eth0, interval 113010ms.
+Mar  2 07:47:51 debian-amabis dhclient[370]: XMT: Solicit on eth0, interval 109290ms.
+Mar  2 07:49:40 debian-amabis dhclient[370]: XMT: Solicit on eth0, interval 120470ms.
+Mar  2 07:51:41 debian-amabis dhclient[370]: XMT: Solicit on eth0, interval 112100ms.
+Mar  2 07:53:33 debian-amabis dhclient[370]: XMT: Solicit on eth0, interval 111090ms.
+Mar  2 07:55:24 debian-amabis dhclient[370]: XMT: Solicit on eth0, interval 108160ms.
+Mar  2 07:57:13 debian-amabis dhclient[370]: XMT: Solicit on eth0, interval 126430ms.
+Mar  2 07:59:19 debian-amabis dhclient[370]: XMT: Solicit on eth0, interval 112490ms.
+Mar  2 08:01:12 debian-amabis dhclient[370]: XMT: Solicit on eth0, interval 112840ms.
+Mar  2 08:03:05 debian-amabis dhclient[370]: XMT: Solicit on eth0, interval 118330ms.
+Mar  2 08:05:03 debian-amabis dhclient[370]: XMT: Solicit on eth0, interval 109720ms.
+Mar  2 08:06:53 debian-amabis dhclient[370]: XMT: Solicit on eth0, interval 117510ms.
+Mar  2 08:07:22 debian-amabis dhclient[309]: DHCPREQUEST of 172.31.32.178 on eth0 to 172.31.32.1 port 67
+Mar  2 08:07:22 debian-amabis dhclient[309]: DHCPACK of 172.31.32.178 from 172.31.32.1
+Mar  2 08:07:22 debian-amabis dhclient[309]: bound to 172.31.32.178 -- renewal in 1730 seconds.
+Mar  2 08:08:50 debian-amabis dhclient[370]: XMT: Solicit on eth0, interval 131160ms.
+Mar  2 08:09:01 debian-amabis CRON[8462]: (root) CMD (  [ -x /usr/lib/php/sessionclean ] && if [ ! -d /run/systemd/system ]; then /usr/lib/php/sessionclean; fi)
+Mar  2 08:09:27 debian-amabis systemd[1]: Starting Clean php session files...
+Mar  2 08:09:27 debian-amabis systemd[1]: Started Clean php session files.
+Mar  2 08:11:02 debian-amabis dhclient[370]: XMT: Solicit on eth0, interval 119140ms.
+Mar  2 08:13:01 debian-amabis dhclient[370]: XMT: Solicit on eth0, interval 118400ms.
+Mar  2 08:14:59 debian-amabis dhclient[370]: XMT: Solicit on eth0, interval 116860ms.
+Mar  2 08:16:56 debian-amabis dhclient[370]: XMT: Solicit on eth0, interval 108310ms.
+Mar  2 08:17:01 debian-amabis CRON[8509]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Mar  2 08:18:45 debian-amabis dhclient[370]: XMT: Solicit on eth0, interval 112130ms.
+Mar  2 08:20:37 debian-amabis dhclient[370]: XMT: Solicit on eth0, interval 126130ms.
+Mar  2 08:21:27 debian-amabis systemd[1]: Starting Daily apt download activities...
+Mar  2 08:21:28 debian-amabis systemd[1]: Started Daily apt download activities.
+Mar  2 08:21:28 debian-amabis systemd[1]: apt-daily.timer: Adding 7h 35min 35.104796s random time.
+Mar  2 08:21:28 debian-amabis systemd[1]: apt-daily.timer: Adding 9h 8min 31.297824s random time.
+Mar  2 08:22:43 debian-amabis dhclient[370]: XMT: Solicit on eth0, interval 118040ms.
+Mar  2 08:24:41 debian-amabis dhclient[370]: XMT: Solicit on eth0, interval 131160ms.
+Mar  2 08:26:53 debian-amabis dhclient[370]: XMT: Solicit on eth0, interval 129320ms.
+Mar  2 08:29:02 debian-amabis dhclient[370]: XMT: Solicit on eth0, interval 126190ms.
+Mar  2 08:31:08 debian-amabis dhclient[370]: XMT: Solicit on eth0, interval 117060ms.
+Mar  2 08:33:05 debian-amabis dhclient[370]: XMT: Solicit on eth0, interval 114160ms.
+Mar  2 08:35:00 debian-amabis dhclient[370]: XMT: Solicit on eth0, interval 114220ms.
+Mar  2 08:36:12 debian-amabis dhclient[309]: DHCPREQUEST of 172.31.32.178 on eth0 to 172.31.32.1 port 67
+Mar  2 08:36:12 debian-amabis dhclient[309]: DHCPACK of 172.31.32.178 from 172.31.32.1
+Mar  2 08:36:12 debian-amabis dhclient[309]: bound to 172.31.32.178 -- renewal in 1496 seconds.
+Mar  2 08:36:54 debian-amabis dhclient[370]: XMT: Solicit on eth0, interval 129530ms.
+Mar  2 08:39:01 debian-amabis CRON[8752]: (root) CMD (  [ -x /usr/lib/php/sessionclean ] && if [ ! -d /run/systemd/system ]; then /usr/lib/php/sessionclean; fi)
+Mar  2 08:39:04 debian-amabis dhclient[370]: XMT: Solicit on eth0, interval 117640ms.
+Mar  2 08:39:27 debian-amabis systemd[1]: Starting Clean php session files...
+Mar  2 08:39:27 debian-amabis systemd[1]: Started Clean php session files.
+Mar  2 08:41:01 debian-amabis dhclient[370]: XMT: Solicit on eth0, interval 117380ms.
+Mar  2 08:42:59 debian-amabis dhclient[370]: XMT: Solicit on eth0, interval 125230ms.
+Mar  2 08:45:04 debian-amabis dhclient[370]: XMT: Solicit on eth0, interval 111370ms.
+Mar  2 08:46:55 debian-amabis dhclient[370]: XMT: Solicit on eth0, interval 123120ms.
+Mar  2 08:48:59 debian-amabis dhclient[370]: XMT: Solicit on eth0, interval 128110ms.
+Mar  2 08:51:07 debian-amabis dhclient[370]: XMT: Solicit on eth0, interval 124440ms.
+Mar  2 08:53:11 debian-amabis dhclient[370]: XMT: Solicit on eth0, interval 115400ms.
+Mar  2 08:55:07 debian-amabis dhclient[370]: XMT: Solicit on eth0, interval 123390ms.
+Mar  2 08:57:10 debian-amabis dhclient[370]: XMT: Solicit on eth0, interval 108510ms.
+Mar  2 08:58:59 debian-amabis dhclient[370]: XMT: Solicit on eth0, interval 112110ms.
+Mar  2 09:00:51 debian-amabis dhclient[370]: XMT: Solicit on eth0, interval 130400ms.
+Mar  2 09:01:08 debian-amabis dhclient[309]: DHCPREQUEST of 172.31.32.178 on eth0 to 172.31.32.1 port 67
+Mar  2 09:01:08 debian-amabis dhclient[309]: DHCPACK of 172.31.32.178 from 172.31.32.1
+Mar  2 09:01:08 debian-amabis dhclient[309]: bound to 172.31.32.178 -- renewal in 1473 seconds.
+Mar  2 09:03:02 debian-amabis dhclient[370]: XMT: Solicit on eth0, interval 113540ms.
+Mar  2 09:04:55 debian-amabis dhclient[370]: XMT: Solicit on eth0, interval 120490ms.
+Mar  2 09:06:56 debian-amabis dhclient[370]: XMT: Solicit on eth0, interval 128300ms.
+Mar  2 09:09:01 debian-amabis CRON[8808]: (root) CMD (  [ -x /usr/lib/php/sessionclean ] && if [ ! -d /run/systemd/system ]; then /usr/lib/php/sessionclean; fi)
+Mar  2 09:09:04 debian-amabis dhclient[370]: XMT: Solicit on eth0, interval 115410ms.
+Mar  2 09:09:27 debian-amabis systemd[1]: Starting Clean php session files...
+Mar  2 09:09:27 debian-amabis systemd[1]: Started Clean php session files.
+Mar  2 09:11:00 debian-amabis dhclient[370]: XMT: Solicit on eth0, interval 122600ms.
+Mar  2 09:13:03 debian-amabis dhclient[370]: XMT: Solicit on eth0, interval 114670ms.
+Mar  2 09:14:57 debian-amabis dhclient[370]: XMT: Solicit on eth0, interval 124490ms.
+Mar  2 09:17:01 debian-amabis CRON[8855]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Mar  2 09:17:02 debian-amabis dhclient[370]: XMT: Solicit on eth0, interval 125800ms.
+Mar  2 09:19:08 debian-amabis dhclient[370]: XMT: Solicit on eth0, interval 125640ms.
+Mar  2 09:21:14 debian-amabis dhclient[370]: XMT: Solicit on eth0, interval 118740ms.
+Mar  2 09:23:12 debian-amabis dhclient[370]: XMT: Solicit on eth0, interval 120040ms.
+Mar  2 09:25:12 debian-amabis dhclient[370]: XMT: Solicit on eth0, interval 124510ms.
+Mar  2 09:25:42 debian-amabis dhclient[309]: DHCPREQUEST of 172.31.32.178 on eth0 to 172.31.32.1 port 67
+Mar  2 09:25:42 debian-amabis dhclient[309]: DHCPACK of 172.31.32.178 from 172.31.32.1
+Mar  2 09:25:42 debian-amabis dhclient[309]: bound to 172.31.32.178 -- renewal in 1533 seconds.
+Mar  2 09:27:17 debian-amabis dhclient[370]: XMT: Solicit on eth0, interval 112650ms.
+Mar  2 09:29:10 debian-amabis dhclient[370]: XMT: Solicit on eth0, interval 108040ms.
+Mar  2 09:30:58 debian-amabis dhclient[370]: XMT: Solicit on eth0, interval 127580ms.
+Mar  2 09:33:06 debian-amabis dhclient[370]: XMT: Solicit on eth0, interval 113790ms.
+Mar  2 09:34:59 debian-amabis dhclient[370]: XMT: Solicit on eth0, interval 122820ms.
+Mar  2 09:37:02 debian-amabis dhclient[370]: XMT: Solicit on eth0, interval 120860ms.
+Mar  2 09:39:01 debian-amabis CRON[8867]: (root) CMD (  [ -x /usr/lib/php/sessionclean ] && if [ ! -d /run/systemd/system ]; then /usr/lib/php/sessionclean; fi)
+Mar  2 09:39:03 debian-amabis dhclient[370]: XMT: Solicit on eth0, interval 124120ms.
+Mar  2 09:39:27 debian-amabis systemd[1]: Starting Clean php session files...
+Mar  2 09:39:27 debian-amabis systemd[1]: Started Clean php session files.
+Mar  2 09:41:07 debian-amabis dhclient[370]: XMT: Solicit on eth0, interval 108950ms.
+Mar  2 09:42:56 debian-amabis dhclient[370]: XMT: Solicit on eth0, interval 128920ms.
+Mar  2 09:45:05 debian-amabis dhclient[370]: XMT: Solicit on eth0, interval 130420ms.
+Mar  2 09:47:16 debian-amabis dhclient[370]: XMT: Solicit on eth0, interval 129580ms.
+Mar  2 09:49:26 debian-amabis dhclient[370]: XMT: Solicit on eth0, interval 112910ms.
+Mar  2 09:51:15 debian-amabis dhclient[309]: DHCPREQUEST of 172.31.32.178 on eth0 to 172.31.32.1 port 67
+Mar  2 09:51:15 debian-amabis dhclient[309]: DHCPACK of 172.31.32.178 from 172.31.32.1
+Mar  2 09:51:15 debian-amabis dhclient[309]: bound to 172.31.32.178 -- renewal in 1417 seconds.
+Mar  2 09:51:19 debian-amabis dhclient[370]: XMT: Solicit on eth0, interval 122030ms.
+Mar  2 09:53:21 debian-amabis dhclient[370]: XMT: Solicit on eth0, interval 113250ms.
+Mar  2 09:55:14 debian-amabis dhclient[370]: XMT: Solicit on eth0, interval 125670ms.
+Mar  2 09:57:20 debian-amabis dhclient[370]: XMT: Solicit on eth0, interval 121380ms.
+Mar  2 09:59:21 debian-amabis dhclient[370]: XMT: Solicit on eth0, interval 130640ms.
+Mar  2 10:01:32 debian-amabis dhclient[370]: XMT: Solicit on eth0, interval 122940ms.
+Mar  2 10:03:35 debian-amabis dhclient[370]: XMT: Solicit on eth0, interval 131670ms.
+Mar  2 10:05:47 debian-amabis dhclient[370]: XMT: Solicit on eth0, interval 131270ms.
+Mar  2 10:07:58 debian-amabis dhclient[370]: XMT: Solicit on eth0, interval 110830ms.
+Mar  2 10:09:01 debian-amabis CRON[8923]: (root) CMD (  [ -x /usr/lib/php/sessionclean ] && if [ ! -d /run/systemd/system ]; then /usr/lib/php/sessionclean; fi)
+Mar  2 10:09:27 debian-amabis systemd[1]: Starting Clean php session files...
+Mar  2 10:09:27 debian-amabis systemd[1]: Started Clean php session files.
+Mar  2 10:09:49 debian-amabis dhclient[370]: XMT: Solicit on eth0, interval 117490ms.
+Mar  2 10:11:47 debian-amabis dhclient[370]: XMT: Solicit on eth0, interval 124270ms.
+Mar  2 10:13:51 debian-amabis dhclient[370]: XMT: Solicit on eth0, interval 113600ms.
+Mar  2 10:14:52 debian-amabis dhclient[309]: DHCPREQUEST of 172.31.32.178 on eth0 to 172.31.32.1 port 67
+Mar  2 10:14:52 debian-amabis dhclient[309]: DHCPACK of 172.31.32.178 from 172.31.32.1
+Mar  2 10:14:52 debian-amabis dhclient[309]: bound to 172.31.32.178 -- renewal in 1498 seconds.
+Mar  2 10:15:45 debian-amabis dhclient[370]: XMT: Solicit on eth0, interval 129980ms.
+Mar  2 10:17:01 debian-amabis CRON[8979]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Mar  2 10:17:55 debian-amabis dhclient[370]: XMT: Solicit on eth0, interval 118490ms.
+Mar  2 10:19:54 debian-amabis dhclient[370]: XMT: Solicit on eth0, interval 116070ms.
+Mar  2 10:21:50 debian-amabis dhclient[370]: XMT: Solicit on eth0, interval 126670ms.
+Mar  2 10:23:56 debian-amabis dhclient[370]: XMT: Solicit on eth0, interval 122920ms.
+Mar  2 10:25:59 debian-amabis dhclient[370]: XMT: Solicit on eth0, interval 116050ms.
+Mar  2 10:27:56 debian-amabis dhclient[370]: XMT: Solicit on eth0, interval 109620ms.
+Mar  2 10:29:45 debian-amabis dhclient[370]: XMT: Solicit on eth0, interval 118840ms.
+Mar  2 10:31:44 debian-amabis dhclient[370]: XMT: Solicit on eth0, interval 126720ms.
+Mar  2 10:33:51 debian-amabis dhclient[370]: XMT: Solicit on eth0, interval 110370ms.
+Mar  2 10:35:42 debian-amabis dhclient[370]: XMT: Solicit on eth0, interval 118330ms.
+Mar  2 10:37:40 debian-amabis dhclient[370]: XMT: Solicit on eth0, interval 120820ms.
+Mar  2 10:39:01 debian-amabis CRON[8982]: (root) CMD (  [ -x /usr/lib/php/sessionclean ] && if [ ! -d /run/systemd/system ]; then /usr/lib/php/sessionclean; fi)
+Mar  2 10:39:27 debian-amabis systemd[1]: Starting Clean php session files...
+Mar  2 10:39:27 debian-amabis systemd[1]: Started Clean php session files.
+Mar  2 10:39:41 debian-amabis dhclient[370]: XMT: Solicit on eth0, interval 125710ms.
+Mar  2 10:39:50 debian-amabis dhclient[309]: DHCPREQUEST of 172.31.32.178 on eth0 to 172.31.32.1 port 67
+Mar  2 10:39:50 debian-amabis dhclient[309]: DHCPACK of 172.31.32.178 from 172.31.32.1
+Mar  2 10:39:50 debian-amabis dhclient[309]: bound to 172.31.32.178 -- renewal in 1789 seconds.
+Mar  2 10:41:47 debian-amabis dhclient[370]: XMT: Solicit on eth0, interval 120030ms.
+Mar  2 10:43:47 debian-amabis dhclient[370]: XMT: Solicit on eth0, interval 116740ms.
+Mar  2 10:45:44 debian-amabis dhclient[370]: XMT: Solicit on eth0, interval 115060ms.
+Mar  2 10:47:39 debian-amabis dhclient[370]: XMT: Solicit on eth0, interval 113520ms.
+Mar  2 10:49:32 debian-amabis dhclient[370]: XMT: Solicit on eth0, interval 118170ms.
+Mar  2 10:51:31 debian-amabis dhclient[370]: XMT: Solicit on eth0, interval 120870ms.
+Mar  2 10:53:32 debian-amabis dhclient[370]: XMT: Solicit on eth0, interval 127560ms.
+Mar  2 10:55:39 debian-amabis dhclient[370]: XMT: Solicit on eth0, interval 112760ms.
+Mar  2 10:57:32 debian-amabis dhclient[370]: XMT: Solicit on eth0, interval 120380ms.
+Mar  2 10:59:33 debian-amabis dhclient[370]: XMT: Solicit on eth0, interval 112980ms.
+Mar  2 11:01:26 debian-amabis dhclient[370]: XMT: Solicit on eth0, interval 122500ms.
+Mar  2 11:03:28 debian-amabis dhclient[370]: XMT: Solicit on eth0, interval 116880ms.
+Mar  2 11:05:25 debian-amabis dhclient[370]: XMT: Solicit on eth0, interval 130020ms.
+Mar  2 11:07:35 debian-amabis dhclient[370]: XMT: Solicit on eth0, interval 130440ms.
+Mar  2 11:09:01 debian-amabis CRON[9038]: (root) CMD (  [ -x /usr/lib/php/sessionclean ] && if [ ! -d /run/systemd/system ]; then /usr/lib/php/sessionclean; fi)
+Mar  2 11:09:27 debian-amabis systemd[1]: Starting Clean php session files...
+Mar  2 11:09:27 debian-amabis systemd[1]: Started Clean php session files.
+Mar  2 11:09:39 debian-amabis dhclient[309]: DHCPREQUEST of 172.31.32.178 on eth0 to 172.31.32.1 port 67
+Mar  2 11:09:39 debian-amabis dhclient[309]: DHCPACK of 172.31.32.178 from 172.31.32.1
+Mar  2 11:09:39 debian-amabis dhclient[309]: bound to 172.31.32.178 -- renewal in 1373 seconds.
+Mar  2 11:09:46 debian-amabis dhclient[370]: XMT: Solicit on eth0, interval 120290ms.
+Mar  2 11:11:46 debian-amabis dhclient[370]: XMT: Solicit on eth0, interval 117140ms.
+Mar  2 11:13:44 debian-amabis dhclient[370]: XMT: Solicit on eth0, interval 118010ms.
+Mar  2 11:15:42 debian-amabis dhclient[370]: XMT: Solicit on eth0, interval 129870ms.
+Mar  2 11:17:01 debian-amabis CRON[9094]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Mar  2 11:17:52 debian-amabis dhclient[370]: XMT: Solicit on eth0, interval 116490ms.
+Mar  2 11:19:48 debian-amabis dhclient[370]: XMT: Solicit on eth0, interval 118600ms.
+Mar  2 11:21:47 debian-amabis dhclient[370]: XMT: Solicit on eth0, interval 108870ms.
+Mar  2 11:22:03 debian-amabis systemd[1]: Started Session 145 of user admin.
+Mar  2 11:22:37 debian-amabis systemd[1]: Starting The Apache HTTP Server...
+Mar  2 11:22:37 debian-amabis apachectl[9120]: AH00548: NameVirtualHost has no effect and will be removed in the next release /etc/apache2/ports.conf:21
+Mar  2 11:22:37 debian-amabis apachectl[9120]: Action 'start' failed.
+Mar  2 11:22:37 debian-amabis apachectl[9120]: The Apache error log may have more information.
+Mar  2 11:22:37 debian-amabis systemd[1]: apache2.service: Control process exited, code=exited status=1
+Mar  2 11:22:37 debian-amabis systemd[1]: Failed to start The Apache HTTP Server.
+Mar  2 11:22:37 debian-amabis systemd[1]: apache2.service: Unit entered failed state.
+Mar  2 11:22:37 debian-amabis systemd[1]: apache2.service: Failed with result 'exit-code'.
+Mar  2 11:23:10 debian-amabis systemd[1]: Started Session 146 of user admin.
+Mar  2 11:23:36 debian-amabis dhclient[370]: XMT: Solicit on eth0, interval 111440ms.
+Mar  2 11:24:55 debian-amabis systemd[1]: Starting The Apache HTTP Server...
+Mar  2 11:24:55 debian-amabis apachectl[9158]: AH00548: NameVirtualHost has no effect and will be removed in the next release /etc/apache2/ports.conf:21
+Mar  2 11:24:55 debian-amabis apachectl[9158]: Action 'start' failed.
+Mar  2 11:24:55 debian-amabis apachectl[9158]: The Apache error log may have more information.
+Mar  2 11:24:55 debian-amabis systemd[1]: apache2.service: Control process exited, code=exited status=1
+Mar  2 11:24:55 debian-amabis systemd[1]: Failed to start The Apache HTTP Server.
+Mar  2 11:24:55 debian-amabis systemd[1]: apache2.service: Unit entered failed state.
+Mar  2 11:24:55 debian-amabis systemd[1]: apache2.service: Failed with result 'exit-code'.
+Mar  2 11:25:27 debian-amabis dhclient[370]: XMT: Solicit on eth0, interval 111270ms.
+Mar  2 11:26:16 debian-amabis systemd[1]: Starting The Apache HTTP Server...
+Mar  2 11:26:16 debian-amabis apachectl[9175]: AH00548: NameVirtualHost has no effect and will be removed in the next release /etc/apache2/ports.conf:21
+Mar  2 11:26:16 debian-amabis apachectl[9175]: Action 'start' failed.
+Mar  2 11:26:16 debian-amabis apachectl[9175]: The Apache error log may have more information.
+Mar  2 11:26:16 debian-amabis systemd[1]: apache2.service: Control process exited, code=exited status=1
+Mar  2 11:26:16 debian-amabis systemd[1]: Failed to start The Apache HTTP Server.
+Mar  2 11:26:16 debian-amabis systemd[1]: apache2.service: Unit entered failed state.
+Mar  2 11:26:16 debian-amabis systemd[1]: apache2.service: Failed with result 'exit-code'.
+Mar  2 11:27:19 debian-amabis dhclient[370]: XMT: Solicit on eth0, interval 111980ms.
+Mar  2 11:27:37 debian-amabis systemd[1]: Starting The Apache HTTP Server...
+Mar  2 11:27:37 debian-amabis apachectl[9198]: AH00548: NameVirtualHost has no effect and will be removed in the next release /etc/apache2/ports.conf:21
+Mar  2 11:27:37 debian-amabis systemd[1]: Started The Apache HTTP Server.
+Mar  2 11:29:11 debian-amabis dhclient[370]: XMT: Solicit on eth0, interval 130430ms.
+Mar  2 11:31:21 debian-amabis dhclient[370]: XMT: Solicit on eth0, interval 130740ms.
+Mar  2 11:32:20 debian-amabis systemd[1]: Stopping The Apache HTTP Server...
+Mar  2 11:32:20 debian-amabis apachectl[9222]: AH00548: NameVirtualHost has no effect and will be removed in the next release /etc/apache2/ports.conf:21
+Mar  2 11:32:20 debian-amabis apachectl[9222]: AH00526: Syntax error on line 32 of /etc/apache2/sites-enabled/000-default.conf:
+Mar  2 11:32:20 debian-amabis apachectl[9222]: Invalid command '...', perhaps misspelled or defined by a module not included in the server configuration
+Mar  2 11:32:20 debian-amabis apachectl[9222]: Action 'stop' failed.
+Mar  2 11:32:20 debian-amabis apachectl[9222]: The Apache error log may have more information.
+Mar  2 11:32:20 debian-amabis systemd[1]: apache2.service: Control process exited, code=exited status=1
+Mar  2 11:32:20 debian-amabis systemd[1]: Stopped The Apache HTTP Server.
+Mar  2 11:32:20 debian-amabis systemd[1]: apache2.service: Unit entered failed state.
+Mar  2 11:32:20 debian-amabis systemd[1]: apache2.service: Failed with result 'exit-code'.
+Mar  2 11:32:20 debian-amabis systemd[1]: Starting The Apache HTTP Server...
+Mar  2 11:32:20 debian-amabis apachectl[9229]: AH00548: NameVirtualHost has no effect and will be removed in the next release /etc/apache2/ports.conf:21
+Mar  2 11:32:20 debian-amabis apachectl[9229]: AH00526: Syntax error on line 32 of /etc/apache2/sites-enabled/000-default.conf:
+Mar  2 11:32:20 debian-amabis apachectl[9229]: Invalid command '...', perhaps misspelled or defined by a module not included in the server configuration
+Mar  2 11:32:20 debian-amabis apachectl[9229]: Action 'start' failed.
+Mar  2 11:32:20 debian-amabis apachectl[9229]: The Apache error log may have more information.
+Mar  2 11:32:20 debian-amabis systemd[1]: apache2.service: Control process exited, code=exited status=1
+Mar  2 11:32:20 debian-amabis systemd[1]: Failed to start The Apache HTTP Server.
+Mar  2 11:32:20 debian-amabis systemd[1]: apache2.service: Unit entered failed state.
+Mar  2 11:32:20 debian-amabis systemd[1]: apache2.service: Failed with result 'exit-code'.
+Mar  2 11:32:32 debian-amabis dhclient[309]: DHCPREQUEST of 172.31.32.178 on eth0 to 172.31.32.1 port 67
+Mar  2 11:32:32 debian-amabis dhclient[309]: DHCPACK of 172.31.32.178 from 172.31.32.1
+Mar  2 11:32:32 debian-amabis dhclient[309]: bound to 172.31.32.178 -- renewal in 1404 seconds.
+Mar  2 11:33:20 debian-amabis systemd[1]: Starting The Apache HTTP Server...
+Mar  2 11:33:20 debian-amabis apachectl[9252]: AH00548: NameVirtualHost has no effect and will be removed in the next release /etc/apache2/ports.conf:21
+Mar  2 11:33:20 debian-amabis apachectl[9252]: Action 'start' failed.
+Mar  2 11:33:20 debian-amabis apachectl[9252]: The Apache error log may have more information.
+Mar  2 11:33:20 debian-amabis systemd[1]: apache2.service: Control process exited, code=exited status=1
+Mar  2 11:33:20 debian-amabis systemd[1]: Failed to start The Apache HTTP Server.
+Mar  2 11:33:20 debian-amabis systemd[1]: apache2.service: Unit entered failed state.
+Mar  2 11:33:20 debian-amabis systemd[1]: apache2.service: Failed with result 'exit-code'.
+Mar  2 11:33:32 debian-amabis dhclient[370]: XMT: Solicit on eth0, interval 124520ms.
+Mar  2 11:35:37 debian-amabis dhclient[370]: XMT: Solicit on eth0, interval 121680ms.
+Mar  2 11:37:39 debian-amabis dhclient[370]: XMT: Solicit on eth0, interval 118710ms.
+Mar  2 11:38:44 debian-amabis systemd[1]: Starting The Apache HTTP Server...
+Mar  2 11:38:44 debian-amabis apachectl[9272]: AH00548: NameVirtualHost has no effect and will be removed in the next release /etc/apache2/ports.conf:21
+Mar  2 11:38:44 debian-amabis apachectl[9272]: Action 'start' failed.
+Mar  2 11:38:44 debian-amabis apachectl[9272]: The Apache error log may have more information.
+Mar  2 11:38:44 debian-amabis systemd[1]: apache2.service: Control process exited, code=exited status=1
+Mar  2 11:38:44 debian-amabis systemd[1]: Failed to start The Apache HTTP Server.
+Mar  2 11:38:44 debian-amabis systemd[1]: apache2.service: Unit entered failed state.
+Mar  2 11:38:44 debian-amabis systemd[1]: apache2.service: Failed with result 'exit-code'.
+Mar  2 11:39:01 debian-amabis CRON[9283]: (root) CMD (  [ -x /usr/lib/php/sessionclean ] && if [ ! -d /run/systemd/system ]; then /usr/lib/php/sessionclean; fi)
+Mar  2 11:39:12 debian-amabis systemd[1]: Starting Clean php session files...
+Mar  2 11:39:12 debian-amabis systemd[1]: Starting The Apache HTTP Server...
+Mar  2 11:39:12 debian-amabis apachectl[9288]: Action 'start' failed.
+Mar  2 11:39:12 debian-amabis apachectl[9288]: The Apache error log may have more information.
+Mar  2 11:39:12 debian-amabis systemd[1]: apache2.service: Control process exited, code=exited status=1
+Mar  2 11:39:12 debian-amabis systemd[1]: Failed to start The Apache HTTP Server.
+Mar  2 11:39:12 debian-amabis systemd[1]: apache2.service: Unit entered failed state.
+Mar  2 11:39:12 debian-amabis systemd[1]: apache2.service: Failed with result 'exit-code'.
+Mar  2 11:39:12 debian-amabis systemd[1]: Started Clean php session files.
+Mar  2 11:39:37 debian-amabis dhclient[370]: XMT: Solicit on eth0, interval 113320ms.
+Mar  2 11:41:31 debian-amabis dhclient[370]: XMT: Solicit on eth0, interval 116210ms.
+Mar  2 11:42:31 debian-amabis systemd[1]: Starting The Apache HTTP Server...
+Mar  2 11:42:31 debian-amabis apachectl[9346]: Action 'start' failed.
+Mar  2 11:42:31 debian-amabis apachectl[9346]: The Apache error log may have more information.
+Mar  2 11:42:31 debian-amabis systemd[1]: apache2.service: Control process exited, code=exited status=1
+Mar  2 11:42:31 debian-amabis systemd[1]: Failed to start The Apache HTTP Server.
+Mar  2 11:42:31 debian-amabis systemd[1]: apache2.service: Unit entered failed state.
+Mar  2 11:42:31 debian-amabis systemd[1]: apache2.service: Failed with result 'exit-code'.
+Mar  2 11:43:27 debian-amabis dhclient[370]: XMT: Solicit on eth0, interval 115200ms.
+Mar  2 11:44:17 debian-amabis systemd[1]: Reloading.
+Mar  2 11:44:17 debian-amabis systemd[1]: Reloading.
+Mar  2 11:44:18 debian-amabis systemd[1]: certbot.timer: Adding 8h 55min 42.412439s random time.
+Mar  2 11:44:18 debian-amabis systemd[1]: Started Run certbot twice daily.
+Mar  2 11:45:22 debian-amabis dhclient[370]: XMT: Solicit on eth0, interval 124210ms.
+Mar  2 11:47:27 debian-amabis dhclient[370]: XMT: Solicit on eth0, interval 123220ms.
+Mar  2 11:49:30 debian-amabis dhclient[370]: XMT: Solicit on eth0, interval 124350ms.
+Mar  2 11:51:35 debian-amabis dhclient[370]: XMT: Solicit on eth0, interval 111240ms.
+Mar  2 11:52:46 debian-amabis systemd[1]: Starting The Apache HTTP Server...
+Mar  2 11:52:46 debian-amabis systemd[1]: Started The Apache HTTP Server.
+Mar  2 11:53:26 debian-amabis dhclient[370]: XMT: Solicit on eth0, interval 109290ms.
+Mar  2 11:53:38 debian-amabis systemd[1]: Stopping The Apache HTTP Server...
+Mar  2 11:53:38 debian-amabis systemd[1]: Stopped The Apache HTTP Server.
+Mar  2 11:53:38 debian-amabis systemd[1]: Starting The Apache HTTP Server...
+Mar  2 11:53:38 debian-amabis systemd[1]: Started The Apache HTTP Server.
+Mar  2 11:55:15 debian-amabis dhclient[370]: XMT: Solicit on eth0, interval 129510ms.
+Mar  2 11:55:56 debian-amabis dhclient[309]: DHCPREQUEST of 172.31.32.178 on eth0 to 172.31.32.1 port 67
+Mar  2 11:55:56 debian-amabis dhclient[309]: DHCPACK of 172.31.32.178 from 172.31.32.1
+Mar  2 11:55:56 debian-amabis dhclient[309]: bound to 172.31.32.178 -- renewal in 1642 seconds.
+Mar  2 11:57:25 debian-amabis dhclient[370]: XMT: Solicit on eth0, interval 126790ms.
+Mar  2 11:58:56 debian-amabis systemd[1]: Stopping The Apache HTTP Server...
+Mar  2 11:58:56 debian-amabis systemd[1]: Stopped The Apache HTTP Server.
+Mar  2 11:58:56 debian-amabis systemd[1]: Starting The Apache HTTP Server...
+Mar  2 11:58:56 debian-amabis systemd[1]: Started The Apache HTTP Server.
+Mar  2 11:59:32 debian-amabis dhclient[370]: XMT: Solicit on eth0, interval 112080ms.
+Mar  2 12:00:01 debian-amabis CRON[9921]: (root) CMD (test -x /usr/bin/certbot -a \! -d /run/systemd/system && perl -e 'sleep int(rand(43200))' && certbot -q renew)
+Mar  2 12:00:19 debian-amabis systemd[1]: Stopping The Apache HTTP Server...
+Mar  2 12:00:19 debian-amabis systemd[1]: Stopped The Apache HTTP Server.
+Mar  2 12:00:19 debian-amabis systemd[1]: Starting The Apache HTTP Server...
+Mar  2 12:00:19 debian-amabis systemd[1]: Started The Apache HTTP Server.
+Mar  2 12:00:45 debian-amabis systemd[1]: Stopping The Apache HTTP Server...
+Mar  2 12:00:45 debian-amabis systemd[1]: Stopped The Apache HTTP Server.
+Mar  2 12:00:45 debian-amabis systemd[1]: Starting The Apache HTTP Server...
+Mar  2 12:00:45 debian-amabis systemd[1]: Started The Apache HTTP Server.
+Mar  2 12:01:24 debian-amabis dhclient[370]: XMT: Solicit on eth0, interval 126310ms.
+Mar  2 12:02:00 debian-amabis systemd[1]: Stopping The Apache HTTP Server...
+Mar  2 12:02:00 debian-amabis systemd[1]: Stopped The Apache HTTP Server.
+Mar  2 12:02:00 debian-amabis systemd[1]: Starting The Apache HTTP Server...
+Mar  2 12:02:00 debian-amabis systemd[1]: Started The Apache HTTP Server.
+Mar  2 12:03:27 debian-amabis systemd[1]: Stopping The Apache HTTP Server...
+Mar  2 12:03:27 debian-amabis systemd[1]: Stopped The Apache HTTP Server.
+Mar  2 12:03:27 debian-amabis systemd[1]: Starting The Apache HTTP Server...
+Mar  2 12:03:27 debian-amabis systemd[1]: Started The Apache HTTP Server.
+Mar  2 12:03:30 debian-amabis dhclient[370]: XMT: Solicit on eth0, interval 122030ms.
+Mar  2 12:04:29 debian-amabis systemd[1]: Stopping The Apache HTTP Server...
+Mar  2 12:04:29 debian-amabis systemd[1]: Stopped The Apache HTTP Server.
+Mar  2 12:04:29 debian-amabis systemd[1]: Starting The Apache HTTP Server...
+Mar  2 12:04:29 debian-amabis systemd[1]: Started The Apache HTTP Server.
+Mar  2 12:05:32 debian-amabis dhclient[370]: XMT: Solicit on eth0, interval 126320ms.
+Mar  2 12:05:52 debian-amabis systemd[1]: Stopping The Apache HTTP Server...
+Mar  2 12:05:52 debian-amabis systemd[1]: Stopped The Apache HTTP Server.
+Mar  2 12:05:52 debian-amabis systemd[1]: Starting The Apache HTTP Server...
+Mar  2 12:05:52 debian-amabis systemd[1]: Started The Apache HTTP Server.
+Mar  2 12:07:13 debian-amabis systemd[1]: Stopping The Apache HTTP Server...
+Mar  2 12:07:13 debian-amabis systemd[1]: Stopped The Apache HTTP Server.
+Mar  2 12:07:13 debian-amabis systemd[1]: Starting The Apache HTTP Server...
+Mar  2 12:07:14 debian-amabis systemd[1]: Started The Apache HTTP Server.
+Mar  2 12:07:39 debian-amabis dhclient[370]: XMT: Solicit on eth0, interval 113310ms.
+Mar  2 12:08:24 debian-amabis systemd[1]: Stopping The Apache HTTP Server...
+Mar  2 12:08:24 debian-amabis systemd[1]: Stopped The Apache HTTP Server.
+Mar  2 12:08:24 debian-amabis systemd[1]: Starting The Apache HTTP Server...
+Mar  2 12:08:24 debian-amabis systemd[1]: Started The Apache HTTP Server.
+Mar  2 12:09:01 debian-amabis CRON[10112]: (root) CMD (  [ -x /usr/lib/php/sessionclean ] && if [ ! -d /run/systemd/system ]; then /usr/lib/php/sessionclean; fi)
+Mar  2 12:09:27 debian-amabis systemd[1]: Starting Clean php session files...
+Mar  2 12:09:27 debian-amabis systemd[1]: Started Clean php session files.
+Mar  2 12:09:32 debian-amabis dhclient[370]: XMT: Solicit on eth0, interval 127760ms.
+Mar  2 12:11:40 debian-amabis dhclient[370]: XMT: Solicit on eth0, interval 119920ms.
+Mar  2 12:13:40 debian-amabis dhclient[370]: XMT: Solicit on eth0, interval 113020ms.
+Mar  2 12:15:33 debian-amabis dhclient[370]: XMT: Solicit on eth0, interval 110130ms.
+Mar  2 12:17:01 debian-amabis CRON[10167]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Mar  2 12:17:23 debian-amabis dhclient[370]: XMT: Solicit on eth0, interval 112130ms.
+Mar  2 12:19:15 debian-amabis dhclient[370]: XMT: Solicit on eth0, interval 113810ms.
+Mar  2 12:21:09 debian-amabis dhclient[370]: XMT: Solicit on eth0, interval 131090ms.
+Mar  2 12:23:18 debian-amabis dhclient[309]: DHCPREQUEST of 172.31.32.178 on eth0 to 172.31.32.1 port 67
+Mar  2 12:23:18 debian-amabis dhclient[309]: DHCPACK of 172.31.32.178 from 172.31.32.1
+Mar  2 12:23:18 debian-amabis dhclient[309]: bound to 172.31.32.178 -- renewal in 1640 seconds.
+Mar  2 12:23:21 debian-amabis dhclient[370]: XMT: Solicit on eth0, interval 129560ms.
+Mar  2 12:25:30 debian-amabis dhclient[370]: XMT: Solicit on eth0, interval 127640ms.
+Mar  2 12:27:38 debian-amabis dhclient[370]: XMT: Solicit on eth0, interval 120810ms.
+Mar  2 12:29:39 debian-amabis dhclient[370]: XMT: Solicit on eth0, interval 112450ms.
+Mar  2 12:31:31 debian-amabis dhclient[370]: XMT: Solicit on eth0, interval 119590ms.
+Mar  2 12:33:31 debian-amabis dhclient[370]: XMT: Solicit on eth0, interval 131640ms.
+Mar  2 12:35:43 debian-amabis dhclient[370]: XMT: Solicit on eth0, interval 117590ms.
+Mar  2 12:37:40 debian-amabis dhclient[370]: XMT: Solicit on eth0, interval 113330ms.
+Mar  2 12:39:01 debian-amabis CRON[10179]: (root) CMD (  [ -x /usr/lib/php/sessionclean ] && if [ ! -d /run/systemd/system ]; then /usr/lib/php/sessionclean; fi)
+Mar  2 12:39:27 debian-amabis systemd[1]: Starting Clean php session files...
+Mar  2 12:39:27 debian-amabis systemd[1]: Started Clean php session files.
+Mar  2 12:39:34 debian-amabis dhclient[370]: XMT: Solicit on eth0, interval 114880ms.
+Mar  2 12:41:29 debian-amabis dhclient[370]: XMT: Solicit on eth0, interval 113460ms.
+Mar  2 12:43:22 debian-amabis dhclient[370]: XMT: Solicit on eth0, interval 117000ms.
+Mar  2 12:45:19 debian-amabis dhclient[370]: XMT: Solicit on eth0, interval 125850ms.
+Mar  2 12:47:25 debian-amabis dhclient[370]: XMT: Solicit on eth0, interval 123580ms.
+Mar  2 12:49:29 debian-amabis dhclient[370]: XMT: Solicit on eth0, interval 120340ms.
+Mar  2 12:50:38 debian-amabis dhclient[309]: DHCPREQUEST of 172.31.32.178 on eth0 to 172.31.32.1 port 67
+Mar  2 12:50:38 debian-amabis dhclient[309]: DHCPACK of 172.31.32.178 from 172.31.32.1
+Mar  2 12:50:38 debian-amabis dhclient[309]: bound to 172.31.32.178 -- renewal in 1746 seconds.
+Mar  2 12:51:29 debian-amabis dhclient[370]: XMT: Solicit on eth0, interval 114280ms.
+Mar  2 12:53:24 debian-amabis dhclient[370]: XMT: Solicit on eth0, interval 122300ms.
+Mar  2 12:55:26 debian-amabis dhclient[370]: XMT: Solicit on eth0, interval 123750ms.
+Mar  2 12:57:30 debian-amabis dhclient[370]: XMT: Solicit on eth0, interval 114800ms.
+Mar  2 12:59:25 debian-amabis dhclient[370]: XMT: Solicit on eth0, interval 112310ms.
+Mar  2 13:01:17 debian-amabis dhclient[370]: XMT: Solicit on eth0, interval 109390ms.
+Mar  2 13:03:07 debian-amabis dhclient[370]: XMT: Solicit on eth0, interval 118010ms.
+Mar  2 13:05:05 debian-amabis dhclient[370]: XMT: Solicit on eth0, interval 125500ms.
+Mar  2 13:07:10 debian-amabis dhclient[370]: XMT: Solicit on eth0, interval 114820ms.
+Mar  2 13:09:01 debian-amabis CRON[10244]: (root) CMD (  [ -x /usr/lib/php/sessionclean ] && if [ ! -d /run/systemd/system ]; then /usr/lib/php/sessionclean; fi)
+Mar  2 13:09:05 debian-amabis dhclient[370]: XMT: Solicit on eth0, interval 122430ms.
+Mar  2 13:09:27 debian-amabis systemd[1]: Starting Clean php session files...
+Mar  2 13:09:27 debian-amabis systemd[1]: Started Clean php session files.
+Mar  2 13:11:08 debian-amabis dhclient[370]: XMT: Solicit on eth0, interval 115800ms.
+Mar  2 13:13:04 debian-amabis dhclient[370]: XMT: Solicit on eth0, interval 124370ms.
+Mar  2 13:15:08 debian-amabis dhclient[370]: XMT: Solicit on eth0, interval 118300ms.
+Mar  2 13:17:01 debian-amabis CRON[10300]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Mar  2 13:17:07 debian-amabis dhclient[370]: XMT: Solicit on eth0, interval 119790ms.
+Mar  2 13:19:06 debian-amabis dhclient[370]: XMT: Solicit on eth0, interval 124070ms.
+Mar  2 13:19:44 debian-amabis dhclient[309]: DHCPREQUEST of 172.31.32.178 on eth0 to 172.31.32.1 port 67
+Mar  2 13:19:44 debian-amabis dhclient[309]: DHCPACK of 172.31.32.178 from 172.31.32.1
+Mar  2 13:19:44 debian-amabis dhclient[309]: bound to 172.31.32.178 -- renewal in 1758 seconds.
+Mar  2 13:21:11 debian-amabis dhclient[370]: XMT: Solicit on eth0, interval 115140ms.
+Mar  2 13:23:06 debian-amabis dhclient[370]: XMT: Solicit on eth0, interval 123490ms.
+Mar  2 13:25:09 debian-amabis dhclient[370]: XMT: Solicit on eth0, interval 114130ms.
+Mar  2 13:27:03 debian-amabis dhclient[370]: XMT: Solicit on eth0, interval 119310ms.
+Mar  2 13:29:03 debian-amabis dhclient[370]: XMT: Solicit on eth0, interval 123750ms.
+Mar  2 13:31:07 debian-amabis dhclient[370]: XMT: Solicit on eth0, interval 112110ms.
+Mar  2 13:32:59 debian-amabis dhclient[370]: XMT: Solicit on eth0, interval 119440ms.
+Mar  2 13:34:58 debian-amabis dhclient[370]: XMT: Solicit on eth0, interval 113990ms.
+Mar  2 13:36:52 debian-amabis dhclient[370]: XMT: Solicit on eth0, interval 121650ms.
+Mar  2 13:38:54 debian-amabis dhclient[370]: XMT: Solicit on eth0, interval 119650ms.
+Mar  2 13:39:01 debian-amabis CRON[10312]: (root) CMD (  [ -x /usr/lib/php/sessionclean ] && if [ ! -d /run/systemd/system ]; then /usr/lib/php/sessionclean; fi)
+Mar  2 13:39:27 debian-amabis systemd[1]: Starting Clean php session files...
+Mar  2 13:39:27 debian-amabis systemd[1]: Started Clean php session files.
+Mar  2 13:40:54 debian-amabis dhclient[370]: XMT: Solicit on eth0, interval 114430ms.
+Mar  2 13:42:48 debian-amabis dhclient[370]: XMT: Solicit on eth0, interval 115850ms.
+Mar  2 13:44:44 debian-amabis dhclient[370]: XMT: Solicit on eth0, interval 128110ms.
+Mar  2 13:46:53 debian-amabis dhclient[370]: XMT: Solicit on eth0, interval 120950ms.
+Mar  2 13:48:54 debian-amabis dhclient[370]: XMT: Solicit on eth0, interval 131960ms.
+Mar  2 13:49:02 debian-amabis dhclient[309]: DHCPREQUEST of 172.31.32.178 on eth0 to 172.31.32.1 port 67
+Mar  2 13:49:02 debian-amabis dhclient[309]: DHCPACK of 172.31.32.178 from 172.31.32.1
+Mar  2 13:49:02 debian-amabis dhclient[309]: bound to 172.31.32.178 -- renewal in 1595 seconds.
+Mar  2 13:51:06 debian-amabis dhclient[370]: XMT: Solicit on eth0, interval 123900ms.
+Mar  2 13:53:10 debian-amabis dhclient[370]: XMT: Solicit on eth0, interval 119250ms.
+Mar  2 13:55:09 debian-amabis dhclient[370]: XMT: Solicit on eth0, interval 116480ms.
+Mar  2 13:57:06 debian-amabis dhclient[370]: XMT: Solicit on eth0, interval 126580ms.
+Mar  2 13:59:12 debian-amabis dhclient[370]: XMT: Solicit on eth0, interval 118240ms.
+Mar  2 14:01:11 debian-amabis dhclient[370]: XMT: Solicit on eth0, interval 127280ms.
+Mar  2 14:03:18 debian-amabis dhclient[370]: XMT: Solicit on eth0, interval 123280ms.
+Mar  2 14:05:21 debian-amabis dhclient[370]: XMT: Solicit on eth0, interval 116400ms.
+Mar  2 14:07:18 debian-amabis dhclient[370]: XMT: Solicit on eth0, interval 127550ms.
+Mar  2 14:09:01 debian-amabis CRON[10377]: (root) CMD (  [ -x /usr/lib/php/sessionclean ] && if [ ! -d /run/systemd/system ]; then /usr/lib/php/sessionclean; fi)
+Mar  2 14:09:25 debian-amabis dhclient[370]: XMT: Solicit on eth0, interval 122000ms.
+Mar  2 14:09:25 debian-amabis systemd[1]: Starting Clean php session files...
+Mar  2 14:09:25 debian-amabis systemd[1]: Started Clean php session files.
+Mar  2 14:11:27 debian-amabis dhclient[370]: XMT: Solicit on eth0, interval 121940ms.
+Mar  2 14:13:30 debian-amabis dhclient[370]: XMT: Solicit on eth0, interval 118530ms.
+Mar  2 14:15:28 debian-amabis dhclient[370]: XMT: Solicit on eth0, interval 131160ms.
+Mar  2 14:15:37 debian-amabis dhclient[309]: DHCPREQUEST of 172.31.32.178 on eth0 to 172.31.32.1 port 67
+Mar  2 14:15:37 debian-amabis dhclient[309]: DHCPACK of 172.31.32.178 from 172.31.32.1
+Mar  2 14:15:37 debian-amabis dhclient[309]: bound to 172.31.32.178 -- renewal in 1562 seconds.
+Mar  2 14:17:01 debian-amabis CRON[10442]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Mar  2 14:17:39 debian-amabis dhclient[370]: XMT: Solicit on eth0, interval 131820ms.
+Mar  2 14:19:13 debian-amabis systemd[1]: Stopping The Apache HTTP Server...
+Mar  2 14:19:13 debian-amabis systemd[1]: Stopped The Apache HTTP Server.
+Mar  2 14:19:13 debian-amabis systemd[1]: Starting The Apache HTTP Server...
+Mar  2 14:19:13 debian-amabis systemd[1]: Started The Apache HTTP Server.
+Mar  2 14:19:51 debian-amabis dhclient[370]: XMT: Solicit on eth0, interval 130420ms.
+Mar  2 14:22:02 debian-amabis dhclient[370]: XMT: Solicit on eth0, interval 109030ms.
+Mar  2 14:23:51 debian-amabis dhclient[370]: XMT: Solicit on eth0, interval 122770ms.
+Mar  2 14:24:54 debian-amabis systemd[1]: Stopping The Apache HTTP Server...
+Mar  2 14:24:54 debian-amabis apachectl[10480]: AH00526: Syntax error on line 13 of /etc/apache2/sites-enabled/000-default.conf:
+Mar  2 14:24:54 debian-amabis apachectl[10480]: AllowOverride not allowed here
+Mar  2 14:24:54 debian-amabis apachectl[10480]: Action 'stop' failed.
+Mar  2 14:24:54 debian-amabis apachectl[10480]: The Apache error log may have more information.
+Mar  2 14:24:54 debian-amabis systemd[1]: apache2.service: Control process exited, code=exited status=1
+Mar  2 14:24:54 debian-amabis systemd[1]: Stopped The Apache HTTP Server.
+Mar  2 14:24:54 debian-amabis systemd[1]: apache2.service: Unit entered failed state.
+Mar  2 14:24:54 debian-amabis systemd[1]: apache2.service: Failed with result 'exit-code'.
+Mar  2 14:24:54 debian-amabis systemd[1]: Starting The Apache HTTP Server...
+Mar  2 14:24:54 debian-amabis apachectl[10487]: AH00526: Syntax error on line 13 of /etc/apache2/sites-enabled/000-default.conf:
+Mar  2 14:24:54 debian-amabis apachectl[10487]: AllowOverride not allowed here
+Mar  2 14:24:54 debian-amabis apachectl[10487]: Action 'start' failed.
+Mar  2 14:24:54 debian-amabis apachectl[10487]: The Apache error log may have more information.
+Mar  2 14:24:54 debian-amabis systemd[1]: apache2.service: Control process exited, code=exited status=1
+Mar  2 14:24:54 debian-amabis systemd[1]: Failed to start The Apache HTTP Server.
+Mar  2 14:24:54 debian-amabis systemd[1]: apache2.service: Unit entered failed state.
+Mar  2 14:24:54 debian-amabis systemd[1]: apache2.service: Failed with result 'exit-code'.
+Mar  2 14:25:54 debian-amabis dhclient[370]: XMT: Solicit on eth0, interval 109660ms.
+Mar  2 14:25:56 debian-amabis systemd[1]: Starting The Apache HTTP Server...
+Mar  2 14:25:56 debian-amabis systemd[1]: Started The Apache HTTP Server.
+Mar  2 14:27:44 debian-amabis dhclient[370]: XMT: Solicit on eth0, interval 117590ms.
+Mar  2 14:28:09 debian-amabis systemd[1]: Stopping The Apache HTTP Server...
+Mar  2 14:28:09 debian-amabis systemd[1]: Stopped The Apache HTTP Server.
+Mar  2 14:28:09 debian-amabis systemd[1]: Starting The Apache HTTP Server...
+Mar  2 14:28:10 debian-amabis systemd[1]: Started The Apache HTTP Server.
+Mar  2 14:28:36 debian-amabis systemd[1]: Stopping The Apache HTTP Server...
+Mar  2 14:28:37 debian-amabis systemd[1]: Stopped The Apache HTTP Server.
+Mar  2 14:28:37 debian-amabis systemd[1]: Starting The Apache HTTP Server...
+Mar  2 14:28:37 debian-amabis systemd[1]: Started The Apache HTTP Server.
+Mar  2 14:29:41 debian-amabis dhclient[370]: XMT: Solicit on eth0, interval 110930ms.
+Mar  2 14:29:48 debian-amabis systemd[1]: Stopping The Apache HTTP Server...
+Mar  2 14:29:48 debian-amabis systemd[1]: Stopped The Apache HTTP Server.
+Mar  2 14:29:48 debian-amabis systemd[1]: Starting The Apache HTTP Server...
+Mar  2 14:29:48 debian-amabis systemd[1]: Started The Apache HTTP Server.
+Mar  2 14:30:51 debian-amabis systemd[1]: Stopping The Apache HTTP Server...
+Mar  2 14:30:51 debian-amabis systemd[1]: Stopped The Apache HTTP Server.
+Mar  2 14:30:51 debian-amabis systemd[1]: Starting The Apache HTTP Server...
+Mar  2 14:30:51 debian-amabis systemd[1]: Started The Apache HTTP Server.
+Mar  2 14:31:32 debian-amabis dhclient[370]: XMT: Solicit on eth0, interval 126380ms.
+Mar  2 14:33:39 debian-amabis dhclient[370]: XMT: Solicit on eth0, interval 126040ms.
+Mar  2 14:35:45 debian-amabis dhclient[370]: XMT: Solicit on eth0, interval 116870ms.
+Mar  2 14:37:42 debian-amabis dhclient[370]: XMT: Solicit on eth0, interval 118870ms.
+Mar  2 14:39:01 debian-amabis CRON[10610]: (root) CMD (  [ -x /usr/lib/php/sessionclean ] && if [ ! -d /run/systemd/system ]; then /usr/lib/php/sessionclean; fi)
+Mar  2 14:39:27 debian-amabis systemd[1]: Starting Clean php session files...
+Mar  2 14:39:27 debian-amabis systemd[1]: Started Clean php session files.
+Mar  2 14:39:41 debian-amabis dhclient[370]: XMT: Solicit on eth0, interval 120300ms.
+Mar  2 14:41:39 debian-amabis dhclient[309]: DHCPREQUEST of 172.31.32.178 on eth0 to 172.31.32.1 port 67
+Mar  2 14:41:39 debian-amabis dhclient[309]: DHCPACK of 172.31.32.178 from 172.31.32.1
+Mar  2 14:41:39 debian-amabis dhclient[309]: bound to 172.31.32.178 -- renewal in 1675 seconds.
+Mar  2 14:41:41 debian-amabis dhclient[370]: XMT: Solicit on eth0, interval 127500ms.
+Mar  2 14:43:49 debian-amabis dhclient[370]: XMT: Solicit on eth0, interval 109250ms.
+Mar  2 14:45:38 debian-amabis dhclient[370]: XMT: Solicit on eth0, interval 115920ms.
+Mar  2 14:47:34 debian-amabis dhclient[370]: XMT: Solicit on eth0, interval 128540ms.
+Mar  2 14:49:43 debian-amabis dhclient[370]: XMT: Solicit on eth0, interval 124460ms.
+Mar  2 14:51:47 debian-amabis dhclient[370]: XMT: Solicit on eth0, interval 123400ms.
+Mar  2 14:53:51 debian-amabis dhclient[370]: XMT: Solicit on eth0, interval 121230ms.
+Mar  2 14:55:52 debian-amabis dhclient[370]: XMT: Solicit on eth0, interval 117700ms.
+Mar  2 14:57:50 debian-amabis dhclient[370]: XMT: Solicit on eth0, interval 121310ms.
+Mar  2 14:59:51 debian-amabis dhclient[370]: XMT: Solicit on eth0, interval 130940ms.
+Mar  2 15:02:02 debian-amabis dhclient[370]: XMT: Solicit on eth0, interval 130980ms.
+Mar  2 15:04:14 debian-amabis dhclient[370]: XMT: Solicit on eth0, interval 130310ms.
+Mar  2 15:06:24 debian-amabis dhclient[370]: XMT: Solicit on eth0, interval 114930ms.
+Mar  2 15:08:19 debian-amabis dhclient[370]: XMT: Solicit on eth0, interval 111350ms.
+Mar  2 15:09:01 debian-amabis CRON[10675]: (root) CMD (  [ -x /usr/lib/php/sessionclean ] && if [ ! -d /run/systemd/system ]; then /usr/lib/php/sessionclean; fi)
+Mar  2 15:09:27 debian-amabis systemd[1]: Starting Clean php session files...
+Mar  2 15:09:27 debian-amabis systemd[1]: Started Clean php session files.
+Mar  2 15:09:34 debian-amabis dhclient[309]: DHCPREQUEST of 172.31.32.178 on eth0 to 172.31.32.1 port 67
+Mar  2 15:09:34 debian-amabis dhclient[309]: DHCPACK of 172.31.32.178 from 172.31.32.1
+Mar  2 15:09:34 debian-amabis dhclient[309]: bound to 172.31.32.178 -- renewal in 1773 seconds.
+Mar  2 15:10:10 debian-amabis dhclient[370]: XMT: Solicit on eth0, interval 127480ms.
+Mar  2 15:12:18 debian-amabis dhclient[370]: XMT: Solicit on eth0, interval 130610ms.
+Mar  2 15:12:26 debian-amabis systemd[1]: Stopping The Apache HTTP Server...
+Mar  2 15:12:27 debian-amabis systemd[1]: Stopped The Apache HTTP Server.
+Mar  2 15:12:27 debian-amabis systemd[1]: Starting The Apache HTTP Server...
+Mar  2 15:12:27 debian-amabis systemd[1]: Started The Apache HTTP Server.
+Mar  2 15:14:29 debian-amabis dhclient[370]: XMT: Solicit on eth0, interval 109770ms.
+Mar  2 15:16:19 debian-amabis dhclient[370]: XMT: Solicit on eth0, interval 108950ms.
+Mar  2 15:17:01 debian-amabis CRON[10763]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Mar  2 15:18:07 debian-amabis dhclient[370]: XMT: Solicit on eth0, interval 112200ms.
+Mar  2 15:20:00 debian-amabis systemd[1]: Stopping The Apache HTTP Server...
+Mar  2 15:20:00 debian-amabis dhclient[370]: XMT: Solicit on eth0, interval 129350ms.
+Mar  2 15:20:00 debian-amabis systemd[1]: Stopped The Apache HTTP Server.
+Mar  2 15:20:00 debian-amabis systemd[1]: Starting The Apache HTTP Server...
+Mar  2 15:20:00 debian-amabis systemd[1]: Started The Apache HTTP Server.
+Mar  2 15:20:49 debian-amabis systemd[1]: Stopping The Apache HTTP Server...
+Mar  2 15:20:49 debian-amabis systemd[1]: Stopped The Apache HTTP Server.
+Mar  2 15:20:49 debian-amabis systemd[1]: Starting The Apache HTTP Server...
+Mar  2 15:20:49 debian-amabis systemd[1]: Started The Apache HTTP Server.
+Mar  2 15:22:09 debian-amabis dhclient[370]: XMT: Solicit on eth0, interval 128390ms.
+Mar  2 15:22:32 debian-amabis systemd[1]: Stopping The Apache HTTP Server...
+Mar  2 15:22:33 debian-amabis systemd[1]: Stopped The Apache HTTP Server.
+Mar  2 15:22:33 debian-amabis systemd[1]: Starting The Apache HTTP Server...
+Mar  2 15:22:33 debian-amabis systemd[1]: Started The Apache HTTP Server.
+Mar  2 15:24:18 debian-amabis dhclient[370]: XMT: Solicit on eth0, interval 130020ms.
+Mar  2 15:26:28 debian-amabis dhclient[370]: XMT: Solicit on eth0, interval 110820ms.
+Mar  2 15:26:51 debian-amabis systemd[1]: Stopping The Apache HTTP Server...
+Mar  2 15:26:51 debian-amabis systemd[1]: Stopped The Apache HTTP Server.
+Mar  2 15:26:51 debian-amabis systemd[1]: Starting The Apache HTTP Server...
+Mar  2 15:26:51 debian-amabis systemd[1]: Started The Apache HTTP Server.
+Mar  2 15:27:43 debian-amabis systemd[1]: Stopping The Apache HTTP Server...
+Mar  2 15:27:43 debian-amabis systemd[1]: Stopped The Apache HTTP Server.
+Mar  2 15:27:43 debian-amabis systemd[1]: Starting The Apache HTTP Server...
+Mar  2 15:27:43 debian-amabis systemd[1]: Started The Apache HTTP Server.
+Mar  2 15:28:19 debian-amabis dhclient[370]: XMT: Solicit on eth0, interval 120330ms.
+Mar  2 15:30:19 debian-amabis dhclient[370]: XMT: Solicit on eth0, interval 118880ms.
+Mar  2 15:32:18 debian-amabis dhclient[370]: XMT: Solicit on eth0, interval 120290ms.
+Mar  2 15:34:18 debian-amabis dhclient[370]: XMT: Solicit on eth0, interval 116530ms.
+Mar  2 15:36:15 debian-amabis dhclient[370]: XMT: Solicit on eth0, interval 114830ms.
+Mar  2 15:38:10 debian-amabis dhclient[370]: XMT: Solicit on eth0, interval 109670ms.
+Mar  2 15:39:01 debian-amabis CRON[10898]: (root) CMD (  [ -x /usr/lib/php/sessionclean ] && if [ ! -d /run/systemd/system ]; then /usr/lib/php/sessionclean; fi)
+Mar  2 15:39:07 debian-amabis dhclient[309]: DHCPREQUEST of 172.31.32.178 on eth0 to 172.31.32.1 port 67
+Mar  2 15:39:07 debian-amabis dhclient[309]: DHCPACK of 172.31.32.178 from 172.31.32.1
+Mar  2 15:39:07 debian-amabis dhclient[309]: bound to 172.31.32.178 -- renewal in 1468 seconds.
+Mar  2 15:39:27 debian-amabis systemd[1]: Starting Clean php session files...
+Mar  2 15:39:27 debian-amabis systemd[1]: Started Clean php session files.
+Mar  2 15:40:00 debian-amabis dhclient[370]: XMT: Solicit on eth0, interval 125140ms.
+Mar  2 15:42:05 debian-amabis dhclient[370]: XMT: Solicit on eth0, interval 117690ms.
+Mar  2 15:43:24 debian-amabis systemd[1]: Stopping The Apache HTTP Server...
+Mar  2 15:43:25 debian-amabis systemd[1]: Stopped The Apache HTTP Server.
+Mar  2 15:43:25 debian-amabis systemd[1]: Starting The Apache HTTP Server...
+Mar  2 15:43:25 debian-amabis systemd[1]: Started The Apache HTTP Server.
+Mar  2 15:44:03 debian-amabis dhclient[370]: XMT: Solicit on eth0, interval 120130ms.
+Mar  2 15:44:58 debian-amabis systemd[1]: Stopping The Apache HTTP Server...
+Mar  2 15:44:58 debian-amabis systemd[1]: Stopped The Apache HTTP Server.
+Mar  2 15:44:58 debian-amabis systemd[1]: Starting The Apache HTTP Server...
+Mar  2 15:44:58 debian-amabis systemd[1]: Started The Apache HTTP Server.
+Mar  2 15:46:03 debian-amabis dhclient[370]: XMT: Solicit on eth0, interval 123600ms.
+Mar  2 15:46:06 debian-amabis systemd[1]: Stopping The Apache HTTP Server...
+Mar  2 15:46:07 debian-amabis systemd[1]: Stopped The Apache HTTP Server.
+Mar  2 15:46:07 debian-amabis systemd[1]: Starting The Apache HTTP Server...
+Mar  2 15:46:07 debian-amabis systemd[1]: Started The Apache HTTP Server.
+Mar  2 15:46:30 debian-amabis systemd[1]: Stopping The Apache HTTP Server...
+Mar  2 15:46:30 debian-amabis systemd[1]: Stopped The Apache HTTP Server.
+Mar  2 15:46:30 debian-amabis systemd[1]: Starting The Apache HTTP Server...
+Mar  2 15:46:30 debian-amabis systemd[1]: Started The Apache HTTP Server.
+Mar  2 15:48:07 debian-amabis dhclient[370]: XMT: Solicit on eth0, interval 109080ms.
+Mar  2 15:49:56 debian-amabis dhclient[370]: XMT: Solicit on eth0, interval 126450ms.
+Mar  2 15:52:02 debian-amabis dhclient[370]: XMT: Solicit on eth0, interval 128390ms.
+Mar  2 15:54:11 debian-amabis dhclient[370]: XMT: Solicit on eth0, interval 127070ms.
+Mar  2 15:56:18 debian-amabis dhclient[370]: XMT: Solicit on eth0, interval 112410ms.
+Mar  2 15:58:10 debian-amabis dhclient[370]: XMT: Solicit on eth0, interval 118020ms.
+Mar  2 16:00:09 debian-amabis dhclient[370]: XMT: Solicit on eth0, interval 122000ms.
+Mar  2 16:02:11 debian-amabis dhclient[370]: XMT: Solicit on eth0, interval 115940ms.
+Mar  2 16:03:35 debian-amabis dhclient[309]: DHCPREQUEST of 172.31.32.178 on eth0 to 172.31.32.1 port 67
+Mar  2 16:03:35 debian-amabis dhclient[309]: DHCPACK of 172.31.32.178 from 172.31.32.1
+Mar  2 16:03:35 debian-amabis dhclient[309]: bound to 172.31.32.178 -- renewal in 1425 seconds.
+Mar  2 16:04:07 debian-amabis dhclient[370]: XMT: Solicit on eth0, interval 118700ms.
+Mar  2 16:06:06 debian-amabis dhclient[370]: XMT: Solicit on eth0, interval 128760ms.
+Mar  2 16:08:14 debian-amabis dhclient[370]: XMT: Solicit on eth0, interval 123800ms.
+Mar  2 16:09:01 debian-amabis CRON[11078]: (root) CMD (  [ -x /usr/lib/php/sessionclean ] && if [ ! -d /run/systemd/system ]; then /usr/lib/php/sessionclean; fi)
+Mar  2 16:09:27 debian-amabis systemd[1]: Starting Clean php session files...
+Mar  2 16:09:27 debian-amabis systemd[1]: Started Clean php session files.
+Mar  2 16:10:18 debian-amabis dhclient[370]: XMT: Solicit on eth0, interval 119570ms.
+Mar  2 16:12:18 debian-amabis dhclient[370]: XMT: Solicit on eth0, interval 131520ms.
+Mar  2 16:14:30 debian-amabis dhclient[370]: XMT: Solicit on eth0, interval 112630ms.
+Mar  2 16:16:22 debian-amabis dhclient[370]: XMT: Solicit on eth0, interval 124600ms.
+Mar  2 16:17:01 debian-amabis CRON[11138]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Mar  2 16:18:27 debian-amabis dhclient[370]: XMT: Solicit on eth0, interval 116610ms.
+Mar  2 16:20:23 debian-amabis dhclient[370]: XMT: Solicit on eth0, interval 131900ms.
+Mar  2 16:22:35 debian-amabis dhclient[370]: XMT: Solicit on eth0, interval 128040ms.
+Mar  2 16:24:44 debian-amabis dhclient[370]: XMT: Solicit on eth0, interval 129840ms.
+Mar  2 16:26:53 debian-amabis dhclient[370]: XMT: Solicit on eth0, interval 130590ms.
+Mar  2 16:27:20 debian-amabis dhclient[309]: DHCPREQUEST of 172.31.32.178 on eth0 to 172.31.32.1 port 67
+Mar  2 16:27:20 debian-amabis dhclient[309]: DHCPACK of 172.31.32.178 from 172.31.32.1
+Mar  2 16:27:20 debian-amabis dhclient[309]: bound to 172.31.32.178 -- renewal in 1371 seconds.
+Mar  2 16:29:04 debian-amabis dhclient[370]: XMT: Solicit on eth0, interval 124930ms.
+Mar  2 16:31:09 debian-amabis dhclient[370]: XMT: Solicit on eth0, interval 110860ms.
+Mar  2 16:33:00 debian-amabis dhclient[370]: XMT: Solicit on eth0, interval 113520ms.
+Mar  2 16:34:54 debian-amabis dhclient[370]: XMT: Solicit on eth0, interval 125090ms.
+Mar  2 16:36:59 debian-amabis dhclient[370]: XMT: Solicit on eth0, interval 119130ms.
+Mar  2 16:38:58 debian-amabis dhclient[370]: XMT: Solicit on eth0, interval 125620ms.
+Mar  2 16:39:01 debian-amabis CRON[11150]: (root) CMD (  [ -x /usr/lib/php/sessionclean ] && if [ ! -d /run/systemd/system ]; then /usr/lib/php/sessionclean; fi)
+Mar  2 16:39:27 debian-amabis systemd[1]: Starting Clean php session files...
+Mar  2 16:39:27 debian-amabis systemd[1]: Started Clean php session files.
+Mar  2 16:41:04 debian-amabis dhclient[370]: XMT: Solicit on eth0, interval 128170ms.
+Mar  2 16:43:12 debian-amabis dhclient[370]: XMT: Solicit on eth0, interval 127750ms.
+Mar  2 16:45:20 debian-amabis dhclient[370]: XMT: Solicit on eth0, interval 118330ms.
+Mar  2 16:47:18 debian-amabis dhclient[370]: XMT: Solicit on eth0, interval 119280ms.
+Mar  2 16:49:18 debian-amabis dhclient[370]: XMT: Solicit on eth0, interval 112490ms.
+Mar  2 16:50:11 debian-amabis dhclient[309]: DHCPREQUEST of 172.31.32.178 on eth0 to 172.31.32.1 port 67
+Mar  2 16:50:11 debian-amabis dhclient[309]: DHCPACK of 172.31.32.178 from 172.31.32.1
+Mar  2 16:50:11 debian-amabis dhclient[309]: bound to 172.31.32.178 -- renewal in 1659 seconds.
+Mar  2 16:51:10 debian-amabis dhclient[370]: XMT: Solicit on eth0, interval 128600ms.
+Mar  2 16:53:19 debian-amabis dhclient[370]: XMT: Solicit on eth0, interval 114830ms.
+Mar  2 16:55:14 debian-amabis dhclient[370]: XMT: Solicit on eth0, interval 112630ms.
+Mar  2 16:57:07 debian-amabis dhclient[370]: XMT: Solicit on eth0, interval 123640ms.
+Mar  2 16:59:10 debian-amabis dhclient[370]: XMT: Solicit on eth0, interval 118850ms.
+Mar  2 17:01:09 debian-amabis dhclient[370]: XMT: Solicit on eth0, interval 123770ms.
+Mar  2 17:03:13 debian-amabis dhclient[370]: XMT: Solicit on eth0, interval 127440ms.
+Mar  2 17:05:21 debian-amabis dhclient[370]: XMT: Solicit on eth0, interval 112430ms.
+Mar  2 17:07:13 debian-amabis dhclient[370]: XMT: Solicit on eth0, interval 125440ms.
+Mar  2 17:09:01 debian-amabis CRON[11217]: (root) CMD (  [ -x /usr/lib/php/sessionclean ] && if [ ! -d /run/systemd/system ]; then /usr/lib/php/sessionclean; fi)
+Mar  2 17:09:19 debian-amabis dhclient[370]: XMT: Solicit on eth0, interval 118270ms.
+Mar  2 17:09:27 debian-amabis systemd[1]: Starting Clean php session files...
+Mar  2 17:09:27 debian-amabis systemd[1]: Started Clean php session files.
+Mar  2 17:11:17 debian-amabis dhclient[370]: XMT: Solicit on eth0, interval 110380ms.
+Mar  2 17:13:08 debian-amabis dhclient[370]: XMT: Solicit on eth0, interval 128180ms.
+Mar  2 17:15:16 debian-amabis dhclient[370]: XMT: Solicit on eth0, interval 110130ms.
+Mar  2 17:17:01 debian-amabis CRON[11275]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Mar  2 17:17:06 debian-amabis dhclient[370]: XMT: Solicit on eth0, interval 114390ms.
+Mar  2 17:17:50 debian-amabis dhclient[309]: DHCPREQUEST of 172.31.32.178 on eth0 to 172.31.32.1 port 67
+Mar  2 17:17:50 debian-amabis dhclient[309]: DHCPACK of 172.31.32.178 from 172.31.32.1
+Mar  2 17:17:50 debian-amabis dhclient[309]: bound to 172.31.32.178 -- renewal in 1396 seconds.
+Mar  2 17:18:27 debian-amabis systemd[1]: Starting Cleanup of Temporary Directories...
+Mar  2 17:18:27 debian-amabis systemd[1]: Started Cleanup of Temporary Directories.
+Mar  2 17:19:00 debian-amabis dhclient[370]: XMT: Solicit on eth0, interval 121380ms.
+Mar  2 17:21:02 debian-amabis dhclient[370]: XMT: Solicit on eth0, interval 125180ms.
+Mar  2 17:23:07 debian-amabis dhclient[370]: XMT: Solicit on eth0, interval 127200ms.
+Mar  2 17:25:14 debian-amabis dhclient[370]: XMT: Solicit on eth0, interval 122450ms.
+Mar  2 17:27:17 debian-amabis dhclient[370]: XMT: Solicit on eth0, interval 116620ms.
+Mar  2 17:29:14 debian-amabis dhclient[370]: XMT: Solicit on eth0, interval 118930ms.
+Mar  2 17:31:13 debian-amabis dhclient[370]: XMT: Solicit on eth0, interval 126590ms.
+Mar  2 17:33:19 debian-amabis dhclient[370]: XMT: Solicit on eth0, interval 121110ms.
+Mar  2 17:35:21 debian-amabis dhclient[370]: XMT: Solicit on eth0, interval 111930ms.
+Mar  2 17:37:13 debian-amabis dhclient[370]: XMT: Solicit on eth0, interval 118450ms.
+Mar  2 17:39:01 debian-amabis CRON[11293]: (root) CMD (  [ -x /usr/lib/php/sessionclean ] && if [ ! -d /run/systemd/system ]; then /usr/lib/php/sessionclean; fi)
+Mar  2 17:39:11 debian-amabis dhclient[370]: XMT: Solicit on eth0, interval 128910ms.
+Mar  2 17:39:27 debian-amabis systemd[1]: Starting Clean php session files...
+Mar  2 17:39:27 debian-amabis systemd[1]: Started Clean php session files.
+Mar  2 17:41:06 debian-amabis dhclient[309]: DHCPREQUEST of 172.31.32.178 on eth0 to 172.31.32.1 port 67
+Mar  2 17:41:06 debian-amabis dhclient[309]: DHCPACK of 172.31.32.178 from 172.31.32.1
+Mar  2 17:41:06 debian-amabis dhclient[309]: bound to 172.31.32.178 -- renewal in 1433 seconds.
+Mar  2 17:41:20 debian-amabis dhclient[370]: XMT: Solicit on eth0, interval 120360ms.
+Mar  2 17:43:21 debian-amabis dhclient[370]: XMT: Solicit on eth0, interval 115100ms.
+Mar  2 17:45:16 debian-amabis dhclient[370]: XMT: Solicit on eth0, interval 113300ms.
+Mar  2 17:47:09 debian-amabis dhclient[370]: XMT: Solicit on eth0, interval 130930ms.
+Mar  2 17:49:20 debian-amabis dhclient[370]: XMT: Solicit on eth0, interval 114510ms.
+Mar  2 17:51:15 debian-amabis dhclient[370]: XMT: Solicit on eth0, interval 110500ms.
+Mar  2 17:53:05 debian-amabis dhclient[370]: XMT: Solicit on eth0, interval 114180ms.
+Mar  2 17:55:00 debian-amabis dhclient[370]: XMT: Solicit on eth0, interval 111640ms.
+Mar  2 17:56:51 debian-amabis dhclient[370]: XMT: Solicit on eth0, interval 113410ms.
+Mar  2 17:58:45 debian-amabis dhclient[370]: XMT: Solicit on eth0, interval 114650ms.
+Mar  2 18:00:40 debian-amabis dhclient[370]: XMT: Solicit on eth0, interval 123590ms.
+Mar  2 18:02:43 debian-amabis dhclient[370]: XMT: Solicit on eth0, interval 130970ms.
+Mar  2 18:04:54 debian-amabis dhclient[370]: XMT: Solicit on eth0, interval 127210ms.
+Mar  2 18:04:59 debian-amabis dhclient[309]: DHCPREQUEST of 172.31.32.178 on eth0 to 172.31.32.1 port 67
+Mar  2 18:04:59 debian-amabis dhclient[309]: DHCPACK of 172.31.32.178 from 172.31.32.1
+Mar  2 18:04:59 debian-amabis dhclient[309]: bound to 172.31.32.178 -- renewal in 1434 seconds.
+Mar  2 18:07:02 debian-amabis dhclient[370]: XMT: Solicit on eth0, interval 118060ms.
+Mar  2 18:09:00 debian-amabis dhclient[370]: XMT: Solicit on eth0, interval 108260ms.
+Mar  2 18:09:01 debian-amabis CRON[11435]: (root) CMD (  [ -x /usr/lib/php/sessionclean ] && if [ ! -d /run/systemd/system ]; then /usr/lib/php/sessionclean; fi)
+Mar  2 18:09:27 debian-amabis systemd[1]: Starting Clean php session files...
+Mar  2 18:09:27 debian-amabis systemd[1]: Started Clean php session files.
+Mar  2 18:10:48 debian-amabis dhclient[370]: XMT: Solicit on eth0, interval 114320ms.
+Mar  2 18:12:42 debian-amabis dhclient[370]: XMT: Solicit on eth0, interval 114260ms.
+Mar  2 18:14:37 debian-amabis dhclient[370]: XMT: Solicit on eth0, interval 113030ms.
+Mar  2 18:16:30 debian-amabis dhclient[370]: XMT: Solicit on eth0, interval 110570ms.
+Mar  2 18:17:01 debian-amabis CRON[11500]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Mar  2 18:18:20 debian-amabis dhclient[370]: XMT: Solicit on eth0, interval 115110ms.
+Mar  2 18:20:16 debian-amabis dhclient[370]: XMT: Solicit on eth0, interval 128220ms.
+Mar  2 18:22:24 debian-amabis dhclient[370]: XMT: Solicit on eth0, interval 120700ms.
+Mar  2 18:24:25 debian-amabis dhclient[370]: XMT: Solicit on eth0, interval 123190ms.
+Mar  2 18:26:28 debian-amabis dhclient[370]: XMT: Solicit on eth0, interval 110970ms.
+Mar  2 18:27:08 debian-amabis systemd[1]: proc-sys-fs-binfmt_misc.automount: Got automount request for /proc/sys/fs/binfmt_misc, triggered by 11530 (restic)
+Mar  2 18:27:08 debian-amabis systemd[1]: Mounting Arbitrary Executable File Formats File System...
+Mar  2 18:27:08 debian-amabis systemd[1]: Mounted Arbitrary Executable File Formats File System.
+Mar  2 18:28:19 debian-amabis dhclient[370]: XMT: Solicit on eth0, interval 124400ms.
+Mar  2 18:28:53 debian-amabis dhclient[309]: DHCPREQUEST of 172.31.32.178 on eth0 to 172.31.32.1 port 67
+Mar  2 18:28:53 debian-amabis dhclient[309]: DHCPACK of 172.31.32.178 from 172.31.32.1
+Mar  2 18:28:53 debian-amabis dhclient[309]: bound to 172.31.32.178 -- renewal in 1584 seconds.
+Mar  2 18:30:23 debian-amabis dhclient[370]: XMT: Solicit on eth0, interval 124870ms.
+Mar  2 18:32:28 debian-amabis dhclient[370]: XMT: Solicit on eth0, interval 118850ms.
+Mar  2 18:34:27 debian-amabis dhclient[370]: XMT: Solicit on eth0, interval 128570ms.
+Mar  2 18:36:36 debian-amabis dhclient[370]: XMT: Solicit on eth0, interval 126730ms.
+Mar  2 18:38:43 debian-amabis dhclient[370]: XMT: Solicit on eth0, interval 127600ms.
+Mar  2 18:39:01 debian-amabis CRON[11687]: (root) CMD (  [ -x /usr/lib/php/sessionclean ] && if [ ! -d /run/systemd/system ]; then /usr/lib/php/sessionclean; fi)
+Mar  2 18:39:11 debian-amabis systemd[1]: Starting Clean php session files...
+Mar  2 18:39:11 debian-amabis systemd[1]: Started Clean php session files.
+Mar  2 18:40:50 debian-amabis dhclient[370]: XMT: Solicit on eth0, interval 121600ms.
+Mar  2 18:42:52 debian-amabis dhclient[370]: XMT: Solicit on eth0, interval 123470ms.

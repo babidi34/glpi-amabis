@@ -1,0 +1,13 @@
+/.
+/usr
+/usr/bin
+/usr/bin/restic
+/usr/share
+/usr/share/doc
+/usr/share/doc/restic
+/usr/share/doc/restic/Design.md.gz
+/usr/share/doc/restic/Manual.md.gz
+/usr/share/doc/restic/REST_backend.md
+/usr/share/doc/restic/changelog.Debian.amd64.gz
+/usr/share/doc/restic/changelog.Debian.gz
+/usr/share/doc/restic/copyright

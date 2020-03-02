@@ -1,0 +1,6 @@
+# /etc/fstab: static file system information.
+#
+# <file sys>	<mount point>	<type>	<options>	<dump>	<pass>
+
+# device during installation: /dev/loop0p1
+UUID=13ea901b-a08d-41a5-8e04-521c4415f9aa	/	ext4	rw,discard,errors=remount-ro	0	1

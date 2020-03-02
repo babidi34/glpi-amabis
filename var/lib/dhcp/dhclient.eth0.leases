@@ -1,0 +1,102 @@
+lease {
+  interface "eth0";
+  fixed-address 172.31.32.178;
+  option subnet-mask 255.255.240.0;
+  option routers 172.31.32.1;
+  option dhcp-lease-time 3600;
+  option dhcp-message-type 5;
+  option domain-name-servers 172.31.0.2;
+  option dhcp-server-identifier 172.31.32.1;
+  option interface-mtu 9001;
+  option broadcast-address 172.31.47.255;
+  option host-name "ip-172-31-32-178";
+  option domain-name "eu-west-3.compute.internal";
+  renew 1 2020/03/02 16:50:11;
+  rebind 1 2020/03/02 17:19:50;
+  expire 1 2020/03/02 17:27:20;
+}
+lease {
+  interface "eth0";
+  fixed-address 172.31.32.178;
+  option subnet-mask 255.255.240.0;
+  option routers 172.31.32.1;
+  option dhcp-lease-time 3600;
+  option dhcp-message-type 5;
+  option domain-name-servers 172.31.0.2;
+  option dhcp-server-identifier 172.31.32.1;
+  option interface-mtu 9001;
+  option broadcast-address 172.31.47.255;
+  option host-name "ip-172-31-32-178";
+  option domain-name "eu-west-3.compute.internal";
+  renew 1 2020/03/02 17:17:50;
+  rebind 1 2020/03/02 17:42:41;
+  expire 1 2020/03/02 17:50:11;
+}
+lease {
+  interface "eth0";
+  fixed-address 172.31.32.178;
+  option subnet-mask 255.255.240.0;
+  option routers 172.31.32.1;
+  option dhcp-lease-time 3600;
+  option dhcp-message-type 5;
+  option domain-name-servers 172.31.0.2;
+  option dhcp-server-identifier 172.31.32.1;
+  option interface-mtu 9001;
+  option broadcast-address 172.31.47.255;
+  option host-name "ip-172-31-32-178";
+  option domain-name "eu-west-3.compute.internal";
+  renew 1 2020/03/02 17:41:06;
+  rebind 1 2020/03/02 18:10:20;
+  expire 1 2020/03/02 18:17:50;
+}
+lease {
+  interface "eth0";
+  fixed-address 172.31.32.178;
+  option subnet-mask 255.255.240.0;
+  option routers 172.31.32.1;
+  option dhcp-lease-time 3600;
+  option dhcp-message-type 5;
+  option domain-name-servers 172.31.0.2;
+  option dhcp-server-identifier 172.31.32.1;
+  option interface-mtu 9001;
+  option broadcast-address 172.31.47.255;
+  option host-name "ip-172-31-32-178";
+  option domain-name "eu-west-3.compute.internal";
+  renew 1 2020/03/02 18:04:59;
+  rebind 1 2020/03/02 18:33:36;
+  expire 1 2020/03/02 18:41:06;
+}
+lease {
+  interface "eth0";
+  fixed-address 172.31.32.178;
+  option subnet-mask 255.255.240.0;
+  option routers 172.31.32.1;
+  option dhcp-lease-time 3600;
+  option dhcp-message-type 5;
+  option domain-name-servers 172.31.0.2;
+  option dhcp-server-identifier 172.31.32.1;
+  option interface-mtu 9001;
+  option broadcast-address 172.31.47.255;
+  option host-name "ip-172-31-32-178";
+  option domain-name "eu-west-3.compute.internal";
+  renew 1 2020/03/02 18:28:53;
+  rebind 1 2020/03/02 18:57:29;
+  expire 1 2020/03/02 19:04:59;
+}
+lease {
+  interface "eth0";
+  fixed-address 172.31.32.178;
+  option subnet-mask 255.255.240.0;
+  option routers 172.31.32.1;
+  option dhcp-lease-time 3600;
+  option dhcp-message-type 5;
+  option domain-name-servers 172.31.0.2;
+  option dhcp-server-identifier 172.31.32.1;
+  option interface-mtu 9001;
+  option broadcast-address 172.31.47.255;
+  option host-name "ip-172-31-32-178";
+  option domain-name "eu-west-3.compute.internal";
+  renew 1 2020/03/02 18:55:17;
+  rebind 1 2020/03/02 19:21:23;
+  expire 1 2020/03/02 19:28:53;
+}

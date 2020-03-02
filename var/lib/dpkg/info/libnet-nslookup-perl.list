@@ -1,0 +1,16 @@
+/.
+/usr
+/usr/share
+/usr/share/man
+/usr/share/man/man3
+/usr/share/man/man3/Net::Nslookup.3pm.gz
+/usr/share/lintian
+/usr/share/lintian/overrides
+/usr/share/lintian/overrides/libnet-nslookup-perl
+/usr/share/perl5
+/usr/share/perl5/Net
+/usr/share/perl5/Net/Nslookup.pm
+/usr/share/doc
+/usr/share/doc/libnet-nslookup-perl
+/usr/share/doc/libnet-nslookup-perl/changelog.Debian.gz
+/usr/share/doc/libnet-nslookup-perl/copyright

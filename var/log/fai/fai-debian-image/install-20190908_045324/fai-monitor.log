@@ -1,0 +1,33 @@
+TASKBEGIN confdir
+TASKEND confdir 0
+TASKBEGIN setup
+TASKEND setup 0
+TASKBEGIN defclass
+TASKEND defclass 0
+TASKBEGIN defvar
+TASKEND defvar 0
+TASKBEGIN action
+TASKBEGIN install
+TASKBEGIN partition
+TASKEND partition 0
+TASKBEGIN mountdisks
+TASKEND mountdisks 0
+TASKBEGIN extrbase
+TASKEND extrbase 0
+TASKBEGIN debconf
+TASKEND debconf 0
+TASKBEGIN repository
+TASKEND repository 0
+TASKBEGIN updatebase
+TASKEND updatebase 0
+TASKBEGIN instsoft
+TASKEND instsoft 0
+TASKBEGIN configure
+TASKEND configure 0
+TASKBEGIN tests
+TASKEND tests 0
+TASKBEGIN finish
+TASKEND finish 0
+TASKBEGIN chboot
+TASKEND chboot 0
+TASKBEGIN savelog

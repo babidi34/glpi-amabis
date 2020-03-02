@@ -1,0 +1,156 @@
+AH00016: Configuration Failed
+AH00016: Configuration Failed
+AH00016: Configuration Failed
+[Mon Mar 02 11:27:37.742688 2020] [mpm_prefork:notice] [pid 9202] AH00163: Apache/2.4.25 (Debian) OpenSSL/1.0.2u configured -- resuming normal operations
+[Mon Mar 02 11:27:37.742763 2020] [core:notice] [pid 9202] AH00094: Command line: '/usr/sbin/apache2'
+[Mon Mar 02 11:32:20.701623 2020] [mpm_prefork:notice] [pid 9202] AH00169: caught SIGTERM, shutting down
+[Mon Mar 02 11:33:20.349113 2020] [ssl:emerg] [pid 9255] AH02562: Failed to configure certificate debian-amabis:443:0 (with chain), check /etc/letsencrypt/csr/0000_csr-certbot.pem
+[Mon Mar 02 11:33:20.349152 2020] [ssl:emerg] [pid 9255] SSL Library Error: error:0906D06C:PEM routines:PEM_read_bio:no start line (Expecting: TRUSTED CERTIFICATE) -- Bad file contents or format - or even just a forgotten SSLCertificateKeyFile?
+[Mon Mar 02 11:33:20.349163 2020] [ssl:emerg] [pid 9255] SSL Library Error: error:140DC009:SSL routines:SSL_CTX_use_certificate_chain_file:PEM lib
+AH00016: Configuration Failed
+[Mon Mar 02 11:38:44.983943 2020] [ssl:emerg] [pid 9275] AH02562: Failed to configure certificate debian-amabis:443:0 (with chain), check /etc/letsencrypt/csr/0000_csr-certbot.pem
+[Mon Mar 02 11:38:44.983983 2020] [ssl:emerg] [pid 9275] SSL Library Error: error:0906D06C:PEM routines:PEM_read_bio:no start line (Expecting: TRUSTED CERTIFICATE) -- Bad file contents or format - or even just a forgotten SSLCertificateKeyFile?
+[Mon Mar 02 11:38:44.983994 2020] [ssl:emerg] [pid 9275] SSL Library Error: error:140DC009:SSL routines:SSL_CTX_use_certificate_chain_file:PEM lib
+AH00016: Configuration Failed
+[Mon Mar 02 11:39:12.251292 2020] [ssl:emerg] [pid 9291] AH02562: Failed to configure certificate debian-amabis:443:0 (with chain), check /etc/letsencrypt/csr/0000_csr-certbot.pem
+[Mon Mar 02 11:39:12.251338 2020] [ssl:emerg] [pid 9291] SSL Library Error: error:0906D06C:PEM routines:PEM_read_bio:no start line (Expecting: TRUSTED CERTIFICATE) -- Bad file contents or format - or even just a forgotten SSLCertificateKeyFile?
+[Mon Mar 02 11:39:12.251351 2020] [ssl:emerg] [pid 9291] SSL Library Error: error:140DC009:SSL routines:SSL_CTX_use_certificate_chain_file:PEM lib
+AH00016: Configuration Failed
+[Mon Mar 02 11:42:31.359486 2020] [ssl:emerg] [pid 9349] AH02562: Failed to configure certificate debian-amabis:443:0 (with chain), check /etc/letsencrypt/csr/0000_csr-certbot.pem
+[Mon Mar 02 11:42:31.359538 2020] [ssl:emerg] [pid 9349] SSL Library Error: error:0906D06C:PEM routines:PEM_read_bio:no start line (Expecting: TRUSTED CERTIFICATE) -- Bad file contents or format - or even just a forgotten SSLCertificateKeyFile?
+[Mon Mar 02 11:42:31.359549 2020] [ssl:emerg] [pid 9349] SSL Library Error: error:140DC009:SSL routines:SSL_CTX_use_certificate_chain_file:PEM lib
+AH00016: Configuration Failed
+[Mon Mar 02 11:52:46.233050 2020] [ssl:warn] [pid 9845] AH01909: debian-amabis:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Mar 02 11:52:46.296702 2020] [ssl:warn] [pid 9846] AH01909: debian-amabis:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Mar 02 11:52:46.299843 2020] [mpm_prefork:notice] [pid 9846] AH00163: Apache/2.4.25 (Debian) OpenSSL/1.0.2u configured -- resuming normal operations
+[Mon Mar 02 11:52:46.299867 2020] [core:notice] [pid 9846] AH00094: Command line: '/usr/sbin/apache2'
+[Mon Mar 02 11:53:38.388273 2020] [mpm_prefork:notice] [pid 9846] AH00169: caught SIGTERM, shutting down
+[Mon Mar 02 11:53:38.444701 2020] [ssl:warn] [pid 9869] AH01909: debian-amabis:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Mar 02 11:53:38.488121 2020] [ssl:warn] [pid 9870] AH01909: debian-amabis:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Mar 02 11:53:38.491281 2020] [mpm_prefork:notice] [pid 9870] AH00163: Apache/2.4.25 (Debian) OpenSSL/1.0.2u configured -- resuming normal operations
+[Mon Mar 02 11:53:38.491306 2020] [core:notice] [pid 9870] AH00094: Command line: '/usr/sbin/apache2'
+[Mon Mar 02 11:58:56.407212 2020] [mpm_prefork:notice] [pid 9870] AH00169: caught SIGTERM, shutting down
+[Mon Mar 02 11:58:56.465426 2020] [ssl:warn] [pid 9909] AH01909: debian-amabis:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Mar 02 11:58:56.536069 2020] [ssl:warn] [pid 9910] AH01909: debian-amabis:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Mar 02 11:58:56.539339 2020] [mpm_prefork:notice] [pid 9910] AH00163: Apache/2.4.25 (Debian) OpenSSL/1.0.2u configured -- resuming normal operations
+[Mon Mar 02 11:58:56.539371 2020] [core:notice] [pid 9910] AH00094: Command line: '/usr/sbin/apache2'
+[Mon Mar 02 12:00:19.463535 2020] [mpm_prefork:notice] [pid 9910] AH00169: caught SIGTERM, shutting down
+[Mon Mar 02 12:00:19.518999 2020] [ssl:warn] [pid 9934] AH01909: debian-amabis:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Mar 02 12:00:19.569769 2020] [ssl:warn] [pid 9935] AH01909: debian-amabis:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Mar 02 12:00:19.572848 2020] [mpm_prefork:notice] [pid 9935] AH00163: Apache/2.4.25 (Debian) OpenSSL/1.0.2u configured -- resuming normal operations
+[Mon Mar 02 12:00:19.572869 2020] [core:notice] [pid 9935] AH00094: Command line: '/usr/sbin/apache2'
+[Mon Mar 02 12:00:45.520267 2020] [mpm_prefork:notice] [pid 9935] AH00169: caught SIGTERM, shutting down
+[Mon Mar 02 12:00:45.576678 2020] [ssl:warn] [pid 9957] AH01909: debian-amabis:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Mar 02 12:00:45.617858 2020] [ssl:warn] [pid 9958] AH01909: debian-amabis:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Mar 02 12:00:45.620931 2020] [mpm_prefork:notice] [pid 9958] AH00163: Apache/2.4.25 (Debian) OpenSSL/1.0.2u configured -- resuming normal operations
+[Mon Mar 02 12:00:45.620966 2020] [core:notice] [pid 9958] AH00094: Command line: '/usr/sbin/apache2'
+[Mon Mar 02 12:02:00.431889 2020] [mpm_prefork:notice] [pid 9958] AH00169: caught SIGTERM, shutting down
+[Mon Mar 02 12:02:00.487625 2020] [ssl:warn] [pid 9981] AH01909: debian-amabis:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Mar 02 12:02:00.547296 2020] [ssl:warn] [pid 9982] AH01909: debian-amabis:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Mar 02 12:02:00.550438 2020] [mpm_prefork:notice] [pid 9982] AH00163: Apache/2.4.25 (Debian) OpenSSL/1.0.2u configured -- resuming normal operations
+[Mon Mar 02 12:02:00.550460 2020] [core:notice] [pid 9982] AH00094: Command line: '/usr/sbin/apache2'
+[Mon Mar 02 12:03:27.612299 2020] [mpm_prefork:notice] [pid 9982] AH00169: caught SIGTERM, shutting down
+[Mon Mar 02 12:03:27.669599 2020] [ssl:warn] [pid 10004] AH01909: debian-amabis:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Mar 02 12:03:27.715492 2020] [ssl:warn] [pid 10005] AH01909: debian-amabis:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Mar 02 12:03:27.718539 2020] [mpm_prefork:notice] [pid 10005] AH00163: Apache/2.4.25 (Debian) OpenSSL/1.0.2u configured -- resuming normal operations
+[Mon Mar 02 12:03:27.718563 2020] [core:notice] [pid 10005] AH00094: Command line: '/usr/sbin/apache2'
+[Mon Mar 02 12:04:29.507815 2020] [mpm_prefork:notice] [pid 10005] AH00169: caught SIGTERM, shutting down
+[Mon Mar 02 12:04:29.563611 2020] [ssl:warn] [pid 10028] AH01909: debian-amabis:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Mar 02 12:04:29.609431 2020] [ssl:warn] [pid 10029] AH01909: debian-amabis:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Mar 02 12:04:29.612606 2020] [mpm_prefork:notice] [pid 10029] AH00163: Apache/2.4.25 (Debian) OpenSSL/1.0.2u configured -- resuming normal operations
+[Mon Mar 02 12:04:29.612632 2020] [core:notice] [pid 10029] AH00094: Command line: '/usr/sbin/apache2'
+[Mon Mar 02 12:05:52.404220 2020] [mpm_prefork:notice] [pid 10029] AH00169: caught SIGTERM, shutting down
+[Mon Mar 02 12:05:52.461227 2020] [ssl:warn] [pid 10053] AH01909: debian-amabis:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Mar 02 12:05:52.506710 2020] [ssl:warn] [pid 10054] AH01909: debian-amabis:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Mar 02 12:05:52.509890 2020] [mpm_prefork:notice] [pid 10054] AH00163: Apache/2.4.25 (Debian) OpenSSL/1.0.2u configured -- resuming normal operations
+[Mon Mar 02 12:05:52.509912 2020] [core:notice] [pid 10054] AH00094: Command line: '/usr/sbin/apache2'
+[Mon Mar 02 12:07:13.952199 2020] [mpm_prefork:notice] [pid 10054] AH00169: caught SIGTERM, shutting down
+[Mon Mar 02 12:07:14.008205 2020] [ssl:warn] [pid 10076] AH01909: debian-amabis:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Mar 02 12:07:14.053839 2020] [ssl:warn] [pid 10077] AH01909: debian-amabis:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Mar 02 12:07:14.056939 2020] [mpm_prefork:notice] [pid 10077] AH00163: Apache/2.4.25 (Debian) OpenSSL/1.0.2u configured -- resuming normal operations
+[Mon Mar 02 12:07:14.056960 2020] [core:notice] [pid 10077] AH00094: Command line: '/usr/sbin/apache2'
+[Mon Mar 02 12:08:24.748209 2020] [mpm_prefork:notice] [pid 10077] AH00169: caught SIGTERM, shutting down
+[Mon Mar 02 12:08:24.803683 2020] [ssl:warn] [pid 10100] AH01909: debian-amabis:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Mar 02 12:08:24.862560 2020] [ssl:warn] [pid 10101] AH01909: debian-amabis:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Mar 02 12:08:24.865705 2020] [mpm_prefork:notice] [pid 10101] AH00163: Apache/2.4.25 (Debian) OpenSSL/1.0.2u configured -- resuming normal operations
+[Mon Mar 02 12:08:24.865742 2020] [core:notice] [pid 10101] AH00094: Command line: '/usr/sbin/apache2'
+[Mon Mar 02 14:19:13.350343 2020] [mpm_prefork:notice] [pid 10101] AH00169: caught SIGTERM, shutting down
+[Mon Mar 02 14:19:13.407470 2020] [ssl:warn] [pid 10459] AH01909: debian-amabis:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Mar 02 14:19:13.453275 2020] [ssl:warn] [pid 10460] AH01909: debian-amabis:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Mar 02 14:19:13.456374 2020] [mpm_prefork:notice] [pid 10460] AH00163: Apache/2.4.25 (Debian) OpenSSL/1.0.2u configured -- resuming normal operations
+[Mon Mar 02 14:19:13.456399 2020] [core:notice] [pid 10460] AH00094: Command line: '/usr/sbin/apache2'
+[Mon Mar 02 14:24:54.410575 2020] [mpm_prefork:notice] [pid 10460] AH00169: caught SIGTERM, shutting down
+[Mon Mar 02 14:25:56.161357 2020] [ssl:warn] [pid 10501] AH01909: debian-amabis:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Mar 02 14:25:56.218358 2020] [ssl:warn] [pid 10502] AH01909: debian-amabis:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Mar 02 14:25:56.221560 2020] [mpm_prefork:notice] [pid 10502] AH00163: Apache/2.4.25 (Debian) OpenSSL/1.0.2u configured -- resuming normal operations
+[Mon Mar 02 14:25:56.221589 2020] [core:notice] [pid 10502] AH00094: Command line: '/usr/sbin/apache2'
+[Mon Mar 02 14:28:09.972217 2020] [mpm_prefork:notice] [pid 10502] AH00169: caught SIGTERM, shutting down
+[Mon Mar 02 14:28:10.029098 2020] [ssl:warn] [pid 10526] AH01909: debian-amabis:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Mar 02 14:28:10.100762 2020] [ssl:warn] [pid 10527] AH01909: debian-amabis:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Mar 02 14:28:10.103924 2020] [mpm_prefork:notice] [pid 10527] AH00163: Apache/2.4.25 (Debian) OpenSSL/1.0.2u configured -- resuming normal operations
+[Mon Mar 02 14:28:10.103955 2020] [core:notice] [pid 10527] AH00094: Command line: '/usr/sbin/apache2'
+[Mon Mar 02 14:28:37.232215 2020] [mpm_prefork:notice] [pid 10527] AH00169: caught SIGTERM, shutting down
+[Mon Mar 02 14:28:37.289630 2020] [ssl:warn] [pid 10550] AH01909: debian-amabis:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Mar 02 14:28:37.331927 2020] [ssl:warn] [pid 10551] AH01909: debian-amabis:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Mar 02 14:28:37.335147 2020] [mpm_prefork:notice] [pid 10551] AH00163: Apache/2.4.25 (Debian) OpenSSL/1.0.2u configured -- resuming normal operations
+[Mon Mar 02 14:28:37.335169 2020] [core:notice] [pid 10551] AH00094: Command line: '/usr/sbin/apache2'
+[Mon Mar 02 14:29:48.615339 2020] [mpm_prefork:notice] [pid 10551] AH00169: caught SIGTERM, shutting down
+[Mon Mar 02 14:29:48.671788 2020] [ssl:warn] [pid 10573] AH01909: debian-amabis:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Mar 02 14:29:48.741863 2020] [ssl:warn] [pid 10574] AH01909: debian-amabis:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Mar 02 14:29:48.745063 2020] [mpm_prefork:notice] [pid 10574] AH00163: Apache/2.4.25 (Debian) OpenSSL/1.0.2u configured -- resuming normal operations
+[Mon Mar 02 14:29:48.745087 2020] [core:notice] [pid 10574] AH00094: Command line: '/usr/sbin/apache2'
+[Mon Mar 02 14:30:51.899205 2020] [mpm_prefork:notice] [pid 10574] AH00169: caught SIGTERM, shutting down
+[Mon Mar 02 14:30:51.954536 2020] [ssl:warn] [pid 10599] AH01909: debian-amabis:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Mar 02 14:30:52.010127 2020] [ssl:warn] [pid 10600] AH01909: debian-amabis:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Mar 02 14:30:52.013307 2020] [mpm_prefork:notice] [pid 10600] AH00163: Apache/2.4.25 (Debian) OpenSSL/1.0.2u configured -- resuming normal operations
+[Mon Mar 02 14:30:52.013328 2020] [core:notice] [pid 10600] AH00094: Command line: '/usr/sbin/apache2'
+[Mon Mar 02 15:12:27.064041 2020] [mpm_prefork:notice] [pid 10600] AH00169: caught SIGTERM, shutting down
+[Mon Mar 02 15:12:27.120642 2020] [ssl:warn] [pid 10752] AH01909: debian-amabis:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Mar 02 15:12:27.170907 2020] [ssl:warn] [pid 10753] AH01909: debian-amabis:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Mar 02 15:12:27.174017 2020] [mpm_prefork:notice] [pid 10753] AH00163: Apache/2.4.25 (Debian) OpenSSL/1.0.2u configured -- resuming normal operations
+[Mon Mar 02 15:12:27.174043 2020] [core:notice] [pid 10753] AH00094: Command line: '/usr/sbin/apache2'
+[Mon Mar 02 15:20:00.416507 2020] [mpm_prefork:notice] [pid 10753] AH00169: caught SIGTERM, shutting down
+[Mon Mar 02 15:20:00.472733 2020] [ssl:warn] [pid 10781] AH01909: debian-amabis:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Mar 02 15:20:00.541549 2020] [ssl:warn] [pid 10782] AH01909: debian-amabis:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Mar 02 15:20:00.544735 2020] [mpm_prefork:notice] [pid 10782] AH00163: Apache/2.4.25 (Debian) OpenSSL/1.0.2u configured -- resuming normal operations
+[Mon Mar 02 15:20:00.544763 2020] [core:notice] [pid 10782] AH00094: Command line: '/usr/sbin/apache2'
+[Mon Mar 02 15:20:49.739329 2020] [mpm_prefork:notice] [pid 10782] AH00169: caught SIGTERM, shutting down
+[Mon Mar 02 15:20:49.795533 2020] [ssl:warn] [pid 10809] AH01909: debian-amabis:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Mar 02 15:20:49.838037 2020] [ssl:warn] [pid 10810] AH01909: debian-amabis:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Mar 02 15:20:49.841176 2020] [mpm_prefork:notice] [pid 10810] AH00163: Apache/2.4.25 (Debian) OpenSSL/1.0.2u configured -- resuming normal operations
+[Mon Mar 02 15:20:49.841197 2020] [core:notice] [pid 10810] AH00094: Command line: '/usr/sbin/apache2'
+[Mon Mar 02 15:22:33.064148 2020] [mpm_prefork:notice] [pid 10810] AH00169: caught SIGTERM, shutting down
+[Mon Mar 02 15:22:33.120829 2020] [ssl:warn] [pid 10834] AH01909: debian-amabis:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Mar 02 15:22:33.168935 2020] [ssl:warn] [pid 10835] AH01909: debian-amabis:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Mar 02 15:22:33.172102 2020] [mpm_prefork:notice] [pid 10835] AH00163: Apache/2.4.25 (Debian) OpenSSL/1.0.2u configured -- resuming normal operations
+[Mon Mar 02 15:22:33.172123 2020] [core:notice] [pid 10835] AH00094: Command line: '/usr/sbin/apache2'
+[Mon Mar 02 15:26:51.756174 2020] [mpm_prefork:notice] [pid 10835] AH00169: caught SIGTERM, shutting down
+[Mon Mar 02 15:26:51.812047 2020] [ssl:warn] [pid 10858] AH01909: debian-amabis:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Mar 02 15:26:51.869423 2020] [ssl:warn] [pid 10859] AH01909: debian-amabis:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Mar 02 15:26:51.872501 2020] [mpm_prefork:notice] [pid 10859] AH00163: Apache/2.4.25 (Debian) OpenSSL/1.0.2u configured -- resuming normal operations
+[Mon Mar 02 15:26:51.872524 2020] [core:notice] [pid 10859] AH00094: Command line: '/usr/sbin/apache2'
+[Mon Mar 02 15:27:43.379398 2020] [mpm_prefork:notice] [pid 10859] AH00169: caught SIGTERM, shutting down
+[Mon Mar 02 15:27:43.435433 2020] [ssl:warn] [pid 10883] AH01909: debian-amabis:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Mar 02 15:27:43.477460 2020] [ssl:warn] [pid 10884] AH01909: debian-amabis:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Mar 02 15:27:43.480557 2020] [mpm_prefork:notice] [pid 10884] AH00163: Apache/2.4.25 (Debian) OpenSSL/1.0.2u configured -- resuming normal operations
+[Mon Mar 02 15:27:43.480584 2020] [core:notice] [pid 10884] AH00094: Command line: '/usr/sbin/apache2'
+[Mon Mar 02 15:43:25.075917 2020] [mpm_prefork:notice] [pid 10884] AH00169: caught SIGTERM, shutting down
+[Mon Mar 02 15:43:25.131290 2020] [ssl:warn] [pid 10974] AH01909: debian-amabis:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Mar 02 15:43:25.175405 2020] [ssl:warn] [pid 10975] AH01909: debian-amabis:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Mar 02 15:43:25.178524 2020] [mpm_prefork:notice] [pid 10975] AH00163: Apache/2.4.25 (Debian) OpenSSL/1.0.2u configured -- resuming normal operations
+[Mon Mar 02 15:43:25.178546 2020] [core:notice] [pid 10975] AH00094: Command line: '/usr/sbin/apache2'
+[Mon Mar 02 15:44:58.551877 2020] [mpm_prefork:notice] [pid 10975] AH00169: caught SIGTERM, shutting down
+[Mon Mar 02 15:44:58.608975 2020] [ssl:warn] [pid 11002] AH01909: debian-amabis:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Mar 02 15:44:58.669005 2020] [ssl:warn] [pid 11003] AH01909: debian-amabis:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Mar 02 15:44:58.672200 2020] [mpm_prefork:notice] [pid 11003] AH00163: Apache/2.4.25 (Debian) OpenSSL/1.0.2u configured -- resuming normal operations
+[Mon Mar 02 15:44:58.672223 2020] [core:notice] [pid 11003] AH00094: Command line: '/usr/sbin/apache2'
+[Mon Mar 02 15:46:07.208323 2020] [mpm_prefork:notice] [pid 11003] AH00169: caught SIGTERM, shutting down
+[Mon Mar 02 15:46:07.264857 2020] [ssl:warn] [pid 11025] AH01909: debian-amabis:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Mar 02 15:46:07.340860 2020] [ssl:warn] [pid 11026] AH01909: debian-amabis:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Mar 02 15:46:07.344101 2020] [mpm_prefork:notice] [pid 11026] AH00163: Apache/2.4.25 (Debian) OpenSSL/1.0.2u configured -- resuming normal operations
+[Mon Mar 02 15:46:07.344132 2020] [core:notice] [pid 11026] AH00094: Command line: '/usr/sbin/apache2'
+[Mon Mar 02 15:46:30.375288 2020] [mpm_prefork:notice] [pid 11026] AH00169: caught SIGTERM, shutting down
+[Mon Mar 02 15:46:30.432046 2020] [ssl:warn] [pid 11049] AH01909: debian-amabis:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Mar 02 15:46:30.474413 2020] [ssl:warn] [pid 11050] AH01909: debian-amabis:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Mar 02 15:46:30.477490 2020] [mpm_prefork:notice] [pid 11050] AH00163: Apache/2.4.25 (Debian) OpenSSL/1.0.2u configured -- resuming normal operations
+[Mon Mar 02 15:46:30.477532 2020] [core:notice] [pid 11050] AH00094: Command line: '/usr/sbin/apache2'

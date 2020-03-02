@@ -1,0 +1,81 @@
+2020-02-29 20:57:56,502:DEBUG:certbot._internal.main:certbot version: 1.2.0
+2020-02-29 20:57:56,503:DEBUG:certbot._internal.main:Arguments: []
+2020-02-29 20:57:56,503:DEBUG:certbot._internal.main:Discovered plugins: PluginsRegistry(PluginEntryPoint#apache,PluginEntryPoint#manual,PluginEntryPoint#nginx,PluginEntryPoint#null,PluginEntryPoint#standalone,PluginEntryPoint#webroot)
+2020-02-29 20:57:56,518:DEBUG:certbot._internal.log:Root logging level set at 20
+2020-02-29 20:57:56,518:INFO:certbot._internal.log:Saving debug log to /var/log/letsencrypt/letsencrypt.log
+2020-02-29 20:57:56,519:DEBUG:certbot._internal.plugins.selection:Requested authenticator None and installer None
+2020-02-29 20:57:56,605:DEBUG:certbot_apache._internal.configurator:Apache version is 2.4.25
+2020-02-29 20:57:56,928:DEBUG:certbot._internal.plugins.disco:No installation (PluginEntryPoint#nginx): Could not find a usable 'nginx' binary. Ensure nginx exists, the binary is executable, and your PATH is set correctly.
+Traceback (most recent call last):
+  File "/opt/eff.org/certbot/venv/local/lib/python2.7/site-packages/certbot/_internal/plugins/disco.py", line 134, in prepare
+    self._initialized.prepare()
+  File "/opt/eff.org/certbot/venv/local/lib/python2.7/site-packages/certbot_nginx/_internal/configurator.py", line 183, in prepare
+    "Could not find a usable 'nginx' binary. Ensure nginx exists, "
+NoInstallationError: Could not find a usable 'nginx' binary. Ensure nginx exists, the binary is executable, and your PATH is set correctly.
+2020-02-29 20:57:56,929:DEBUG:certbot._internal.plugins.selection:Single candidate plugin: * apache
+Description: Apache Web Server plugin
+Interfaces: IAuthenticator, IInstaller, IPlugin
+Entry point: apache = certbot_apache._internal.entrypoint:ENTRYPOINT
+Initialized: <certbot_apache._internal.override_debian.DebianConfigurator object at 0x7f48c30a7b50>
+Prep: True
+2020-02-29 20:57:56,930:DEBUG:certbot._internal.plugins.selection:Selected authenticator <certbot_apache._internal.override_debian.DebianConfigurator object at 0x7f48c30a7b50> and installer <certbot_apache._internal.override_debian.DebianConfigurator object at 0x7f48c30a7b50>
+2020-02-29 20:57:56,930:INFO:certbot._internal.plugins.selection:Plugins selected: Authenticator apache, Installer apache
+2020-02-29 20:59:10,535:DEBUG:acme.client:Sending GET request to https://acme-v02.api.letsencrypt.org/directory.
+2020-02-29 20:59:10,537:DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): acme-v02.api.letsencrypt.org:443
+2020-02-29 20:59:11,092:DEBUG:urllib3.connectionpool:https://acme-v02.api.letsencrypt.org:443 "GET /directory HTTP/1.1" 200 658
+2020-02-29 20:59:11,093:DEBUG:acme.client:Received response:
+HTTP 200
+Server: nginx
+Date: Sat, 29 Feb 2020 20:59:11 GMT
+Content-Type: application/json
+Content-Length: 658
+Connection: keep-alive
+Cache-Control: public, max-age=0, no-cache
+X-Frame-Options: DENY
+Strict-Transport-Security: max-age=604800
+
+{
+  "keyChange": "https://acme-v02.api.letsencrypt.org/acme/key-change",
+  "mBm-7k23Sfk": "https://community.letsencrypt.org/t/adding-random-entries-to-the-directory/33417",
+  "meta": {
+    "caaIdentities": [
+      "letsencrypt.org"
+    ],
+    "termsOfService": "https://letsencrypt.org/documents/LE-SA-v1.2-November-15-2017.pdf",
+    "website": "https://letsencrypt.org"
+  },
+  "newAccount": "https://acme-v02.api.letsencrypt.org/acme/new-acct",
+  "newNonce": "https://acme-v02.api.letsencrypt.org/acme/new-nonce",
+  "newOrder": "https://acme-v02.api.letsencrypt.org/acme/new-order",
+  "revokeCert": "https://acme-v02.api.letsencrypt.org/acme/revoke-cert"
+}
+2020-02-29 20:59:27,989:DEBUG:certbot._internal.main:
+Traceback (most recent call last):
+  File "/opt/eff.org/certbot/venv/local/lib/python2.7/site-packages/certbot/_internal/main.py", line 519, in _determine_account
+    config, account_storage, tos_cb=_tos_cb)
+  File "/opt/eff.org/certbot/venv/local/lib/python2.7/site-packages/certbot/_internal/client.py", line 176, in register
+    regr = perform_registration(acme, config, tos_cb)
+  File "/opt/eff.org/certbot/venv/local/lib/python2.7/site-packages/certbot/_internal/client.py", line 219, in perform_registration
+    return acme.new_account_and_tos(newreg, tos_cb)
+  File "/opt/eff.org/certbot/venv/local/lib/python2.7/site-packages/acme/client.py", line 836, in new_account_and_tos
+    _assess_tos(self.client.directory.meta.terms_of_service)
+  File "/opt/eff.org/certbot/venv/local/lib/python2.7/site-packages/acme/client.py", line 827, in _assess_tos
+    check_tos_cb(tos)
+  File "/opt/eff.org/certbot/venv/local/lib/python2.7/site-packages/certbot/_internal/main.py", line 499, in _tos_cb
+    "Registration cannot proceed without accepting "
+Error: Registration cannot proceed without accepting Terms of Service.
+2020-02-29 20:59:27,991:DEBUG:certbot._internal.log:Exiting abnormally:
+Traceback (most recent call last):
+  File "/opt/eff.org/certbot/venv/bin/letsencrypt", line 11, in <module>
+    sys.exit(main())
+  File "/opt/eff.org/certbot/venv/local/lib/python2.7/site-packages/certbot/main.py", line 15, in main
+    return internal_main.main(cli_args)
+  File "/opt/eff.org/certbot/venv/local/lib/python2.7/site-packages/certbot/_internal/main.py", line 1347, in main
+    return config.func(config, plugins)
+  File "/opt/eff.org/certbot/venv/local/lib/python2.7/site-packages/certbot/_internal/main.py", line 1093, in run
+    le_client = _init_le_client(config, authenticator, installer)
+  File "/opt/eff.org/certbot/venv/local/lib/python2.7/site-packages/certbot/_internal/main.py", line 603, in _init_le_client
+    acc, acme = _determine_account(config)
+  File "/opt/eff.org/certbot/venv/local/lib/python2.7/site-packages/certbot/_internal/main.py", line 525, in _determine_account
+    "Unable to register an account with ACME server")
+Error: Unable to register an account with ACME server

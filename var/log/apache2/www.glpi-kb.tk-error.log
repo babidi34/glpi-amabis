@@ -1,0 +1,24 @@
+[Sun Mar 01 14:06:06.677383 2020] [ssl:emerg] [pid 5988] AH02562: Failed to configure certificate glpi-kb.tk:443:0 (with chain), check /etc/letsencrypt/csr/0000_csr-certbot.pem
+[Sun Mar 01 14:06:06.677844 2020] [ssl:emerg] [pid 5988] SSL Library Error: error:0906D06C:PEM routines:PEM_read_bio:no start line (Expecting: TRUSTED CERTIFICATE) -- Bad file contents or format - or even just a forgotten SSLCertificateKeyFile?
+[Sun Mar 01 14:06:06.677862 2020] [ssl:emerg] [pid 5988] SSL Library Error: error:140DC009:SSL routines:SSL_CTX_use_certificate_chain_file:PEM lib
+[Sun Mar 01 14:09:51.431362 2020] [ssl:emerg] [pid 6054] AH02562: Failed to configure certificate glpi-kb.tk:443:0 (with chain), check /etc/letsencrypt/csr/0000_csr-certbot.pem
+[Sun Mar 01 14:09:51.431404 2020] [ssl:emerg] [pid 6054] SSL Library Error: error:0906D06C:PEM routines:PEM_read_bio:no start line (Expecting: TRUSTED CERTIFICATE) -- Bad file contents or format - or even just a forgotten SSLCertificateKeyFile?
+[Sun Mar 01 14:09:51.431416 2020] [ssl:emerg] [pid 6054] SSL Library Error: error:140DC009:SSL routines:SSL_CTX_use_certificate_chain_file:PEM lib
+[Sun Mar 01 14:12:56.223725 2020] [ssl:emerg] [pid 6081] AH02562: Failed to configure certificate glpi-kb.tk:443:0 (with chain), check /etc/letsencrypt/csr/0000_csr-certbot.pem
+[Sun Mar 01 14:12:56.223771 2020] [ssl:emerg] [pid 6081] SSL Library Error: error:0906D06C:PEM routines:PEM_read_bio:no start line (Expecting: TRUSTED CERTIFICATE) -- Bad file contents or format - or even just a forgotten SSLCertificateKeyFile?
+[Sun Mar 01 14:12:56.223782 2020] [ssl:emerg] [pid 6081] SSL Library Error: error:140DC009:SSL routines:SSL_CTX_use_certificate_chain_file:PEM lib
+[Sun Mar 01 14:15:48.051652 2020] [ssl:emerg] [pid 6097] AH02562: Failed to configure certificate glpi-kb.tk:443:0 (with chain), check /etc/letsencrypt/csr/0000_csr-certbot.pem
+[Sun Mar 01 14:15:48.051693 2020] [ssl:emerg] [pid 6097] SSL Library Error: error:0906D06C:PEM routines:PEM_read_bio:no start line (Expecting: TRUSTED CERTIFICATE) -- Bad file contents or format - or even just a forgotten SSLCertificateKeyFile?
+[Sun Mar 01 14:15:48.051704 2020] [ssl:emerg] [pid 6097] SSL Library Error: error:140DC009:SSL routines:SSL_CTX_use_certificate_chain_file:PEM lib
+[Sun Mar 01 14:27:28.373919 2020] [ssl:emerg] [pid 6141] AH02562: Failed to configure certificate glpi-kb.tk:443:0 (with chain), check /etc/letsencrypt/csr/0000_csr-certbot.pem
+[Sun Mar 01 14:27:28.373972 2020] [ssl:emerg] [pid 6141] SSL Library Error: error:0906D06C:PEM routines:PEM_read_bio:no start line (Expecting: TRUSTED CERTIFICATE) -- Bad file contents or format - or even just a forgotten SSLCertificateKeyFile?
+[Sun Mar 01 14:27:28.373982 2020] [ssl:emerg] [pid 6141] SSL Library Error: error:140DC009:SSL routines:SSL_CTX_use_certificate_chain_file:PEM lib
+[Mon Mar 02 11:22:37.464639 2020] [ssl:emerg] [pid 9123] AH02562: Failed to configure certificate glpi-kb.tk:443:0 (with chain), check /etc/letsencrypt/csr/0000_csr-certbot.pem
+[Mon Mar 02 11:22:37.464681 2020] [ssl:emerg] [pid 9123] SSL Library Error: error:0906D06C:PEM routines:PEM_read_bio:no start line (Expecting: TRUSTED CERTIFICATE) -- Bad file contents or format - or even just a forgotten SSLCertificateKeyFile?
+[Mon Mar 02 11:22:37.464691 2020] [ssl:emerg] [pid 9123] SSL Library Error: error:140DC009:SSL routines:SSL_CTX_use_certificate_chain_file:PEM lib
+[Mon Mar 02 11:24:55.977797 2020] [ssl:emerg] [pid 9161] AH02562: Failed to configure certificate glpi-kb.tk:443:0 (with chain), check /etc/letsencrypt/csr/0000_csr-certbot.pem
+[Mon Mar 02 11:24:55.977842 2020] [ssl:emerg] [pid 9161] SSL Library Error: error:0906D06C:PEM routines:PEM_read_bio:no start line (Expecting: TRUSTED CERTIFICATE) -- Bad file contents or format - or even just a forgotten SSLCertificateKeyFile?
+[Mon Mar 02 11:24:55.977853 2020] [ssl:emerg] [pid 9161] SSL Library Error: error:140DC009:SSL routines:SSL_CTX_use_certificate_chain_file:PEM lib
+[Mon Mar 02 11:26:16.389700 2020] [ssl:emerg] [pid 9178] AH02562: Failed to configure certificate glpi-kb.tk:443:0 (with chain), check /etc/letsencrypt/csr/0000_csr-certbot.pem
+[Mon Mar 02 11:26:16.389749 2020] [ssl:emerg] [pid 9178] SSL Library Error: error:0906D06C:PEM routines:PEM_read_bio:no start line (Expecting: TRUSTED CERTIFICATE) -- Bad file contents or format - or even just a forgotten SSLCertificateKeyFile?
+[Mon Mar 02 11:26:16.389759 2020] [ssl:emerg] [pid 9178] SSL Library Error: error:140DC009:SSL routines:SSL_CTX_use_certificate_chain_file:PEM lib

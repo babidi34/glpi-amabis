@@ -1,0 +1,8 @@
+etc/apt/sources.list	CLOUD	# new file
+etc/apt/sources.list	CLOUD	# preserved file
+etc/apt/sources.list	CLOUD	# preserved file
+etc/chrony/chrony.conf	EC2	# new file
+etc/hostname	CLOUD	# new file
+etc/cloud/cloud.cfg.d/01_debian_cloud.cfg	CLOUD	# new file
+usr/local/sbin/inet6-ifup-helper	EC2	# new file
+etc/cloud/cloud.cfg.d/99-disable-network-config.cfg	EC2	# new file

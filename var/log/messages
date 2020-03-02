@@ -1,0 +1,2 @@
+Mar  1 06:25:05 debian-amabis liblogging-stdlog:  [origin software="rsyslogd" swVersion="8.24.0" x-pid="472" x-info="http://www.rsyslog.com"] rsyslogd was HUPed
+Mar  2 06:25:02 debian-amabis liblogging-stdlog:  [origin software="rsyslogd" swVersion="8.24.0" x-pid="472" x-info="http://www.rsyslog.com"] rsyslogd was HUPed

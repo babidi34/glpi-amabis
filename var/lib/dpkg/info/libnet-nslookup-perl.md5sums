@@ -1,0 +1,5 @@
+92b60e204102eeefc18f80be52594bfe  usr/share/doc/libnet-nslookup-perl/changelog.Debian.gz
+17b7dc9848222def869bb8318747029f  usr/share/doc/libnet-nslookup-perl/copyright
+67a9abdff16a43cb0e4a8a87d393d967  usr/share/lintian/overrides/libnet-nslookup-perl
+8bfb138f1a025bed4c249c2d8cb77db5  usr/share/man/man3/Net::Nslookup.3pm.gz
+9af4a1aa07a0f07f64be235ec2cfe37c  usr/share/perl5/Net/Nslookup.pm

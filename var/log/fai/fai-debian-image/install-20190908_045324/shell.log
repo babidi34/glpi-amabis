@@ -1,0 +1,50 @@
+=====   shell: DEBIAN/10-apt   =====
+fcopy: no matching file for any class for etc/apt/sources.list.d/backports.list defined.
+fcopy: no matching file for any class for etc/apt/preferences.d/linux.pref defined.
+fcopy: no matching file for any class for etc/apt/sources.list.d/gce.list defined.
+DEBIAN/10-apt        OK.
+=====   shell: DEBIAN/11-misc   =====
+Shadow passwords are now on.
+DEBIAN/11-misc       OK.
+=====   shell: DEBIAN/13-network   =====
+Generating grub configuration file ...
+Found linux image: /boot/vmlinuz-4.9.0-11-amd64
+Found initrd image: /boot/initrd.img-4.9.0-11-amd64
+done
+DEBIAN/13-network    OK.
+=====   shell: DEBIAN/20-capabilities   =====
+DEBIAN/20-capabilities OK.
+=====   shell: GRUB_PC/10-setup   =====
+Installing for i386-pc platform.
+Installation finished. No error reported.
+Grub installed on hostdisk /dev/loop0
+Generating grub configuration file ...
+Found linux image: /boot/vmlinuz-4.9.0-11-amd64
+Found initrd image: /boot/initrd.img-4.9.0-11-amd64
+done
+GRUB_PC/10-setup     OK.
+=====   shell: CLOUD/11-chrony   =====
+fcopy: copied /srv/fai/config/config_space/files/etc/chrony/chrony.conf/EC2 to /tmp/fai-diskimage.fUnUh4/etc/chrony/chrony.conf
+CLOUD/11-chrony      OK.
+=====   shell: CLOUD/99-cleanup   =====
+fcopy: copied /srv/fai/config/config_space/files/etc/hostname/CLOUD to /tmp/fai-diskimage.fUnUh4/etc/hostname
+CLOUD/99-cleanup     OK.
+=====   shell: EC2/10-misc   =====
+fcopy: copied /srv/fai/config/config_space/files/etc/cloud/cloud.cfg.d/01_debian_cloud.cfg/CLOUD to /tmp/fai-diskimage.fUnUh4/etc/cloud/cloud.cfg.d/01_debian_cloud.cfg
+EC2/10-misc          OK.
+=====   shell: EC2/10-network   =====
+ainsl: appending to /tmp/fai-diskimage.fUnUh4/etc/network/interfaces: auto lo
+ainsl: appending to /tmp/fai-diskimage.fUnUh4/etc/network/interfaces: iface lo inet loopback
+ainsl: appending to /tmp/fai-diskimage.fUnUh4/etc/network/interfaces: auto eth0
+fcopy: copied /srv/fai/config/config_space/files/usr/local/sbin/inet6-ifup-helper/EC2 to /tmp/fai-diskimage.fUnUh4/usr/local/sbin/inet6-ifup-helper
+fcopy: copied /srv/fai/config/config_space/files/etc/cloud/cloud.cfg.d/99-disable-network-config.cfg/EC2 to /tmp/fai-diskimage.fUnUh4/etc/cloud/cloud.cfg.d/99-disable-network-config.cfg
+ainsl: appending to /tmp/fai-diskimage.fUnUh4/etc/network/interfaces: iface eth0 inet dhcp
+ainsl: appending to /tmp/fai-diskimage.fUnUh4/etc/network/interfaces: iface eth1 inet dhcp
+ainsl: appending to /tmp/fai-diskimage.fUnUh4/etc/network/interfaces: iface eth2 inet dhcp
+ainsl: appending to /tmp/fai-diskimage.fUnUh4/etc/network/interfaces: iface eth3 inet dhcp
+ainsl: appending to /tmp/fai-diskimage.fUnUh4/etc/network/interfaces: iface eth4 inet dhcp
+ainsl: appending to /tmp/fai-diskimage.fUnUh4/etc/network/interfaces: iface eth5 inet dhcp
+ainsl: appending to /tmp/fai-diskimage.fUnUh4/etc/network/interfaces: iface eth6 inet dhcp
+ainsl: appending to /tmp/fai-diskimage.fUnUh4/etc/network/interfaces: iface eth7 inet dhcp
+ainsl: appending to /tmp/fai-diskimage.fUnUh4/etc/network/interfaces: iface eth8 inet dhcp
+EC2/10-network       OK.

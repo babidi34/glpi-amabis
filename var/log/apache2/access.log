@@ -116,3 +116,5 @@
 ::1 - - [02/Mar/2020:17:36:28 +0000] "OPTIONS * HTTP/1.0" 200 126 "-" "Apache/2.4.25 (Debian) OpenSSL/1.0.2u (internal dummy connection)"
 192.241.227.209 - - [02/Mar/2020:18:08:36 +0000] "GET /manager/html HTTP/1.1" 301 539 "-" "Mozilla/5.0 zgrab/0.x"
 169.197.108.22 - - [02/Mar/2020:18:59:07 +0000] "GET /owa/auth/logon.aspx HTTP/1.1" 301 553 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36"
+::1 - - [02/Mar/2020:19:18:07 +0000] "OPTIONS * HTTP/1.0" 200 126 "-" "Apache/2.4.25 (Debian) OpenSSL/1.0.2u (internal dummy connection)"
+::1 - - [02/Mar/2020:19:42:09 +0000] "OPTIONS * HTTP/1.0" 200 126 "-" "Apache/2.4.25 (Debian) OpenSSL/1.0.2u (internal dummy connection)"

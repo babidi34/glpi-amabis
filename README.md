@@ -11,3 +11,6 @@
 - Sauvegarde Restic de  /{etc,var,home} dans /tmp/backup  |  Je n'ai utiliser que restic client car avec la version gratuite d'AWS je n'ai pas le droit d'avoir 2 VM allumées en même temps
 
 - Ce depot contient tous les fichiers de configurations du serveur Debian
+
+
+// J'ai du utiliser une Debian 9 car la 10 n'entre pas dans le cadre de l'offre gratuite AWS

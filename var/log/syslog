@@ -776,3 +776,6 @@ Mar  2 19:09:01 debian-amabis CRON[11849]: (root) CMD (  [ -x /usr/lib/php/sessi
 Mar  2 19:09:17 debian-amabis dhclient[370]: XMT: Solicit on eth0, interval 127120ms.
 Mar  2 19:09:27 debian-amabis systemd[1]: Starting Clean php session files...
 Mar  2 19:09:27 debian-amabis systemd[1]: Started Clean php session files.
+Mar  2 19:11:24 debian-amabis dhclient[370]: XMT: Solicit on eth0, interval 121890ms.
+Mar  2 19:13:26 debian-amabis dhclient[370]: XMT: Solicit on eth0, interval 113670ms.
+Mar  2 19:15:20 debian-amabis dhclient[370]: XMT: Solicit on eth0, interval 120450ms.

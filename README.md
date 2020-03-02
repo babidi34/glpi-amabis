@@ -9,3 +9,5 @@
 - site glpi : https://glpi-kb.tk    |  certificat let'sEncrypt pour le HTTPS  | La configuration d'Apache redirige automatiquement vers le port 443
 
 - Sauvegarde Restic de  /{etc,var,home} dans /tmp/backup  |  Je n'ai utiliser que restic client car avec la version gratuite d'AWS je n'ai pas le droit d'avoir 2 VM allumées en même temps
+
+- Ce depot contient tous les fichiers de configurations du serveur Debian

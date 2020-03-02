@@ -362,3 +362,5 @@ Mar  2 18:33:12 debian-amabis su[11659]: pam_unix(su:session): session opened fo
 Mar  2 18:33:12 debian-amabis su[11659]: pam_systemd(su:session): Cannot create session: Already running in a session
 Mar  2 18:39:01 debian-amabis CRON[11686]: pam_unix(cron:session): session opened for user root by (uid=0)
 Mar  2 18:39:01 debian-amabis CRON[11686]: pam_unix(cron:session): session closed for user root
+Mar  2 19:09:01 debian-amabis CRON[11848]: pam_unix(cron:session): session opened for user root by (uid=0)
+Mar  2 19:09:01 debian-amabis CRON[11848]: pam_unix(cron:session): session closed for user root
